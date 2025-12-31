@@ -22,20 +22,14 @@
 destination: docs/
 
 title: COGS 9
-email: kshannon@ucsd.edu
+email: lai@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Cogs 9 at UC San Diego
 title: COGS 9
 tagline: Introduction to Data Science
 
-# when hosted via kshannon-ucsd.github.io
-url: https://kshannon-ucsd.github.io
-baseurl: /cogs9
-
-# when hosted via dsc40a.com
-# url: https://dsc40a.com
-# baseurl: ""
-
+url: https://cogs.github.io
+baseurl: 
 
 ###### Build settings
 # remote_theme:
