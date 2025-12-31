@@ -1,12 +1,12 @@
-- name: Kyle Shannon (Data Soothsayer)
-  email: kshannon@ucsd.edu
+- name: Lucy Lai
+  email: lai@ucsd.edu
   role: Instructor
-  website: https://www.kmshannon.com/about/
-  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/kshannon_5.jpeg
-  description: Neuroscience → Data Science @ UCSD x2 (recursive pain)
-  hometown: San Diego, Cali
-  askabout: Coffee, Likely to be found on a tennis court 🎾
-  food: Regent's Pizza, Charminar, Sochi Sushi, Turmeric Thai, Callie
+  website: https://www.lucylai.com
+  photo: /images/lucy.png
+  description: CogSci B.A. @ Rice → Neuroscience Ph.D. @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof (but often mistaken for a student) @ UCSD
+  hometown: Houston, TX
+  askabout: Grad school, living in Japan, anime, latin dancing
+  food: El Pueblo $1.39 Fish Tacos
 
 - name: Vignesh (Viggy) Palaniapan - TA
   email: vpalaniappan@ucsd.edu
