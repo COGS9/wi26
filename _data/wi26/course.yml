@@ -1,19 +1,19 @@
 # Welcome section
-quarter: Spring 2025
-building: TBD
-timings: TUE & THUR 6:30PM - 7:50PM
+quarter: Winter 2026
+building: PETER 110
+timings: TUE & THUR 9:30-10:50AM
 edstem_link:
-campuswire_link: https://campuswire.com/c/G1459A14D/
-gradescope_link: https://www.gradescope.com/courses/tbd
+campuswire_link: 
+gradescope_link: 
 gradescope_entry_code: TBD
 
 office_hours:
-  - name: Kyle Shannon
-    day: Thursday
-    time: 2:00pm - 3:00pm
-    location: HDSI 226
-    zoom_link: https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09
-    zoom_pw: 725814
+  - name: Lucy Lai
+    day:
+    time: 
+    location: 
+    zoom_link: 
+    zoom_pw: 
 
 announcement:
   color: green
