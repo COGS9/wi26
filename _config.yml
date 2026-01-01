@@ -23,12 +23,11 @@ destination: docs/
 
 title: COGS 9
 email: lai@ucsd.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Cogs 9 at UC San Diego
+description: Understanding data and how it shapes the world around us
 title: COGS 9
-tagline: Understanding data and how it shapes the world around us
+tagline: Introduction to Data Science
 
-url: https://cogs.github.io
+url: https://cogs9.github.io
 baseurl: 
 
 ###### Build settings
@@ -39,16 +38,12 @@ plugins:
 
 search_enabled: true
 
-
-
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   # optional
   input: GFM
   syntax_highlighter: rouge
-
-
 
 
 # exclude: ["./data", "../vendor/*"]
