@@ -30,14 +30,14 @@ nav_order: 1
 {% include staffer.html staff=staff nobio='true' %}
 
 {: .important }
-Please note that due to technical issues with podcast, the recordings from SP'25 were deleted and I only have recordings from last year. The slides may be slightly altered in places, but most of the changes are in appearances and memes 😁. The content is still moreover the same.
-This is why the pdf slides and videos slides might be slightly different, but do not fret! There are no exams (check out the exam section for more), so the content being the same is largely conducive for your projects!
+If you are joining the course late...please note that
 
+## Office Hours
 
-{: .important }
-  - Kyle's OH (PDT): Thursday 5:00pm - 6:00pm [zoom link](https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09)
-  - Quirine OH (PDT): Tursday 8:00am - 9:00am [zoom link](https://ucsd.zoom.us/j/95336512099)
-  - TA Discussion Session: Tuesday & Thursday 2:30 pm - 3:30pm (PDT) [zoom link](https://ucsd.zoom.us/j/96222015762)
+|--|-----|
+| **Prof. Lai** | **• T, 2-3pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom <br> **• Th, 2-3pm** (walk-in) @ CSB244|
+| **TAs** | TBD |
+| **PLAs** | TBD | 
 
 <!-- **{{ course_vars.announcement.text }}** -->
 
