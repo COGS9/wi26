@@ -49,7 +49,7 @@
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
-          title: "<b>Due: R1 quiz</b>"
+          title: "<span style='color: red;'>Due: R1 quiz</span>"
 
     - date: "2026-01-13"
       in_class: true
