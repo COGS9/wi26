@@ -51,4 +51,44 @@
         - label: QUIZ
           type: quiz
           title: Due R1 quiz
- 
+
+    - date: "2026-01-13"
+      in_class: true
+      events:
+        - label: LEC 3
+          type: lecture
+          title: Ethics and privacy
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-15"
+      in_class: true
+      events:
+        - label: LEC 4
+          type: lecture
+          title: Data & data types
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-16"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 3
+  title: "Week 3 - Data Collection and Wrangling<br>
+    <small>
+      📘 Read <a href='#'>R2: Ethics</a>.<br>
+    </small>"
+  days:
+    - date: "2026-01-19"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R2 <i>Ethics</
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due R2 quiz</b>"
+
