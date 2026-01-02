@@ -45,9 +45,10 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R1: <i>Data Science</i>
+          title: Discuss R1: Data Science
           slides: https://canvas.ucsd.edu/
+          
         - label: QUIZ
           type: quiz
-          title: "<b>Due: R1 quiz</b>"
+          title: Due: R1 quiz
  
