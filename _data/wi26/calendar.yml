@@ -37,7 +37,7 @@
 - week: 2
   title: "Week 2 - Ethics and Data<br>
     <small>
-      📘 Read <a href='#'>R1: Data Science (TBD)</a>.<br>
+      📘 Read <a href='#'>R1: Data Science</a>.<br>
     </small>"
   days:
     - date: "2026-01-12"
@@ -49,7 +49,7 @@
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
-          title: "<span style='color: red;'>Due: R1 quiz</span>"
+          title: Due: R1 quiz
 
     - date: "2026-01-13"
       in_class: true
@@ -89,7 +89,7 @@
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
-          title: "<b>Due: R2 quiz</b>"
+          title: Due: R2 quiz
 
     - date: "2026-01-20"
       in_class: true
