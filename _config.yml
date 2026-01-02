@@ -72,15 +72,15 @@ exclude:
 # Aux link for the upper right navigation
 aux_links:
   🖼️ Canvas:
-    - 'https://canvas.ucsd.edu/courses/71213/'
+  - 'https://canvas.ucsd.edu/courses/71213/'
   🙋🏻 Piazza:
-    - 'https://piazza.com/class/mjt03ajwx6q373'
+  - 'https://piazza.com/class/mjt03ajwx6q373'
   💯 Gradescope:
-    - 'https://www.gradescope.com/courses/1206494'
+  - 'https://www.gradescope.com/courses/1206494'
   🎙️ Podcast:
-    - 'https://podcast.ucsd.edu/watch/wi26/'
+  - 'https://podcast.ucsd.edu/watch/wi26/'
   💬 Feedback:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
+  - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
