@@ -1,7 +1,7 @@
 - week: 1
   title: "Week 1 - Intro to Data Science<br>
     <small>
-      📘 Read <a href='#'>Syllabus & Course Policies</a>.<br>
+      📘 Read <a href='#'>Syllabus & Course Policies</a><br>
     </small>"
   days:
     - date: "2026-01-05"
@@ -37,6 +37,17 @@
 - week: 2
   title: "Week 2 - Ethics & Data<br>
     <small>
-      📘 Read <a href='#'>R1: Data Science</a>.<br>
+      📘 Read <a href='#'>R1: Data Science</a><br>
     </small>"
+  days:
+    - date: "2026-01-12"
+      in_class: false
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R1: <i>Data Science</i>
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due: R1 quiz</b>"
  
