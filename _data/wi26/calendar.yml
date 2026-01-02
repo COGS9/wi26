@@ -47,9 +47,6 @@
           type: disc
           title: Discuss R1: Data Science
           slides: https://canvas.ucsd.edu/
-        - label: QUIZ
-          type: quiz
-          title: Due: R1 quiz
 
     - date: "2026-01-13"
       in_class: true
