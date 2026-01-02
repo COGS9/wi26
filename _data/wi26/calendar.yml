@@ -5,7 +5,7 @@
     </small>"
   days:
     - date: "2026-01-05"
-      in_class: false
+      in_class: true
       events:
         - label: DISC
           type: disc
@@ -41,14 +41,14 @@
     </small>"
   days:
     - date: "2026-01-12"
-      in_class: false
+      in_class: true
       events:
         - label: DISC
           type: disc
-          title: Discuss R1: Data Science
+          title: Discuss R1 Data Science
           slides: https://canvas.ucsd.edu/
           
         - label: QUIZ
           type: quiz
-          title: Due: R1 quiz
+          title: Due R1 quiz
  
