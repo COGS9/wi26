@@ -45,7 +45,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R1: <i>Data Science</i>
+          title: Discuss R1: Data Science
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
@@ -73,44 +73,3 @@
         - label: OH
           type: office_hours
           title: PLA office hours
-
-- week: 3
-  title: "Week 3 - Data Collection and Wrangling<br>
-    <small>
-      📘 Read <a href='#'>R2: Ethics (TBD)</a>.<br>
-    </small>"
-  days:
-    - date: "2026-01-19"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discuss R2: <i>Ethics</i>
-          slides: https://canvas.ucsd.edu/
-        - label: QUIZ
-          type: quiz
-          title: Due: R2 quiz
-
-    - date: "2026-01-20"
-      in_class: true
-      events:
-        - label: LEC 5
-          type: lecture
-          title: Obtaining data
-          slides: https://canvas.ucsd.edu/
-
-    - date: "2026-01-22"
-      in_class: true
-      events:
-        - label: LEC 6
-          type: lecture
-          title: Data wrangling
-          slides: https://canvas.ucsd.edu/
-
-    - date: "2026-01-23"
-      in_class: true
-      events:
-        - label: OH
-          type: office_hours
-          title: PLA office hours
-
