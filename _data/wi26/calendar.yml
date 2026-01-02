@@ -86,7 +86,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R2 <i>Ethics</i>
+          title: Discuss R2 Ethics
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
@@ -119,7 +119,7 @@
 - week: 4
   title: "Week 4 <br>
     <small>
-      📘 Read <a href='#'>R3: Organizing Data (TBD)</a>.<br>
+      📘 Read <a href='#'>R3: Organizing Data</a><br>
     </small>"
   days:
     - date: "2026-01-26"
@@ -127,7 +127,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R3: <i>Organizing Data</i> + Exam review
+          title: Discuss R3 Organizing Data + Exam review
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
@@ -158,7 +158,7 @@
 - week: 5
   title: "Week 5 - Data visualization & EDA<br>
     <small>
-      📘 Read <a href='#'>R4 Preview: Data Visualization (TBD)</a>.<br>
+      📘 Read <a href='#'>R4: Data Visualization </a><br>
     </small>"
   days:
     - date: "2026-02-02"
@@ -198,7 +198,7 @@
 - week: 6
   title: "Week 6 - Communication & Reproducibility<br>
     <small>
-      📘 Read <a href='#'>R4: Data Visualization (TBD)</a>.<br>
+      📘 Read <a href='#'>R4: Data Visualization</a><br>
     </small>"
   days:
     - date: "2026-02-09"
@@ -206,7 +206,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R4: <i>Data Visualization</i>
+          title: Discuss R4 Data Visualization
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
@@ -274,7 +274,7 @@
 - week: 8
   title: "Week 8 - Inference and Machine Learning<br>
     <small>
-      📘 Read <a href='#'>R5 Preview: Organizing Data (TBD)</a>.<br>
+      📘 Read <a href='#'>R5 Preview: Organizing Data</a><br>
     </small>"
   days:
     - date: "2026-02-23"
@@ -310,7 +310,7 @@
 - week: 9
   title: "Week 9<br>
     <small>
-      📘 Read <a href='#'>R5: Machine Learning</a>.<br>
+      📘 Read <a href='#'>R5: Machine Learning</a><br>
     </small>"
   days:
     - date: "2026-03-02"
@@ -318,7 +318,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R5: <i>Organizing Data</i> + Exam review
+          title: Discuss R5 + Exam review
           slides: https://canvas.ucsd.edu/
         - label: QUIZ
           type: quiz
