@@ -1,344 +1,397 @@
 - week: 1
-  title: "Week 1 - Introduction to Data Science & Ethics<br>
+  title: "Week 1 - Course Overview<br>
     <small>
-      📘 Read <a href='#'>Introduction to Data Science (TBD)</a>.<br>
+      📘 Read <a href='#'>R0: Syllabus & Course Policies (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-04-01"
+    - date: "2026-01-05"
+      in_class: false
+      events:
+        - label: DISC
+          type: disc
+          title: NO Discussion Section
+
+    - date: "2026-01-06"
       in_class: true
       events:
         - label: LEC 1
           type: lecture
-          title: What is Data Science?
-          slides: https://drive.google.com/file/d/1VVDe4nypwzaMjYxGzfYymC6dsQT8WB2b/view?usp=sharing
-        - label: QUIZ
-          type: quiz
-          title: <b>Reading Quiz 1 Released (due Apr 10, 11:59 pm)</b>
-          
-    - date: "2025-04-02"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: NO Discussion Section - CANCELED
-          
-    - date: "2025-04-03"
+          title: Course overview — What is data science?
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-08"
       in_class: true
       events:
         - label: LEC 2
           type: lecture
-          title: Ethics
-          slides: https://drive.google.com/file/d/1cXuPmihiRPluQV5biFr1vP90hp1gs8ol/view?usp=sharing
-        - label: MISC
-          type: survey
-          title: <a href='https://campuswire.com/c/G1459A14D'>Sign Up for Campuswire - Code 6507</a>
+          title: Data science questions
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-09"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
 
 - week: 2
-  title: "Week 2 - Data Science Questions & Reproducibility<br>
+  title: "Week 2 - Ethics, Privacy, and Data Types<br>
     <small>
-      🍿 Watch <a href='#'>Data Science in Practice (TBD)</a>.<br>
+      📘 Read <a href='#'>R1: Data Science (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-04-08"
+    - date: "2026-01-12"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R1: <i>Data Science</i>
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due: R1 quiz</b>"
+
+    - date: "2026-01-13"
       in_class: true
       events:
         - label: LEC 3
           type: lecture
-          title: Data Science Questions
-          slides: https://drive.google.com/file/d/19Isd1KqrWUcFxPIiwYBo4vH3lta2emZl/view?usp=sharing
-        - label: HW
-          type: hw
-          title: <b>Assignment 1 Released (due Apr 16, 11:59 pm)</b> 
-          
-    - date: "2025-04-09"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          slides: https://docs.google.com/presentation/d/1PDZNr_ck8A4qVHNz1SqeAI6z1JTW9VnP/edit?usp=sharing&ouid=109839652146296490953&rtpof=true&sd=true
-          
-    - date: "2025-04-10"
+          title: Ethics and privacy
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-15"
       in_class: true
       events:
         - label: LEC 4
           type: lecture
-          title: Reproducibility & Bias
-          slides: https://drive.google.com/file/d/1eHzS6W-gqAPDsBh1Z4-pgAXt1iH6aum4/view?usp=sharing
+          title: Data & data types
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-16"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
 
 - week: 3
-  title: "Week 3 - Data Fundamentals & Collection<br>
+  title: "Week 3 - Data Collection and Wrangling<br>
     <small>
-      📘 Read <a href='#'>Data Collection Methods (TBD)</a>.<br>
+      📘 Read <a href='#'>R2: Ethics (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-04-15"
+    - date: "2026-01-19"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R2: <i>Ethics</i>
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due: R2 quiz</b>"
+
+    - date: "2026-01-20"
       in_class: true
       events:
         - label: LEC 5
           type: lecture
-          title: Data
-          slides: https://drive.google.com/file/d/12TaBBC02FQqa3YGiO0mkabyRXsa6zl3V/view?usp=sharing
-          demo: https://colab.research.google.com/drive/1E9xMrXmvfKDQsY9y-YNjZykWUqXiaRjx?usp=sharing
-          data: https://drive.google.com/file/d/1Fdvw0sS7d8lt2HCdWnBh92kOJCfTjw2p/view?usp=sharing
+          title: Obtaining data
+          slides: https://canvas.ucsd.edu/
 
-        - label: HW
-          type: hw
-          title: <b>Assignment 2 Released (due Apr 24, 11:59 pm)</b>
-        - label: QUIZ
-          type: quiz
-          title: <b>Reading Quiz 3 Released (due Apr 24, 11:59 pm)</b>
-          
-    - date: "2025-04-16"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          
-    - date: "2025-04-17"
+    - date: "2026-01-22"
       in_class: true
       events:
         - label: LEC 6
           type: lecture
-          title: Data Collection
-          slides: https://drive.google.com/file/d/1Cn7n7oSCrf25S-YWuXN6FKJGm82zcNs-/view?usp=sharing
+          title: Data wrangling
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-23"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
 
 - week: 4
-  title: "Week 4 - Data Wrangling & Visualization<br>
+  title: "Week 4 - Exam 1 + Organizing Data<br>
     <small>
-      🍿 Watch <a href='#'>Data Visualization Techniques (TBD)</a>.<br>
+      📘 Read <a href='#'>R3: Organizing Data (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-04-22"
+    - date: "2026-01-26"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R3: <i>Organizing Data</i> + Exam review
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due: R3 quiz</b>"
+
+    - date: "2026-01-27"
+      in_class: true
+      events:
+        - label: EXAM 1
+          type: exam
+          title: EXAM 1
+
+    - date: "2026-01-29"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "Guest lecture: Eddie Reyes — Co-Founder, Buoy Health (Forbes 30u30)"
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-01-30"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 5
+  title: "Week 5 - Visualization + EDA & Hypothesis Testing<br>
+    <small>
+      📘 Read <a href='#'>R4 Preview: Data Visualization (TBD)</a>.<br>
+    </small>"
+  days:
+    - date: "2026-02-02"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Group work
+          slides: https://canvas.ucsd.edu/
+        - label: PROJ
+          type: project
+          title: "<b>Due: P1 group project proposal*</b>"
+
+    - date: "2026-02-03"
       in_class: true
       events:
         - label: LEC 7
           type: lecture
-          title: Data Wrangling
-          slides: https://drive.google.com/file/d/1_BngJOfs9wkXzM9MuFtO5yde8VJWqgOR/view?usp=sharing
-          code: 
-        - label: QUIZ
-          type: quiz
-          title: <b>Reading Quiz 4 Released (due May 1, 11:59 pm)</b>
-          
-    - date: "2025-04-23"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section - Form Project Groups (3-4 people/team)
-          
-    - date: "2025-04-24"
+          title: Data visualization
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-02-05"
       in_class: true
       events:
         - label: LEC 8
           type: lecture
-          title: Data Visualization
-          slides: https://drive.google.com/file/d/1iOWt2L24TdWmkkDfY5IVuq8P3NUv0MYP/view?usp=sharing
+          title: Hypothesis testing and exploratory data analysis
+          slides: https://canvas.ucsd.edu/
 
-- week: 5
-  title: "Week 5 - Exploratory Data Analysis & Communication<br>
+    - date: "2026-02-06"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 6
+  title: "Week 6 - Communication, Reproducibility, and Workflows<br>
     <small>
-      📘 Read <a href='#'>Exploratory Data Analysis (TBD)</a>.<br>
+      📘 Read <a href='#'>R4: Data Visualization (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-04-29"
+    - date: "2026-02-09"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R4: <i>Data Visualization</i>
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due: R4 quiz</b>"
+
+    - date: "2026-02-10"
       in_class: true
       events:
         - label: LEC 9
           type: lecture
-          title: EDA
-          slides: https://drive.google.com/file/d/1qVqGqpeufteO9W2knFQ0aGLDzj5E6k0R/view?usp=sharing
-          demo: https://colab.research.google.com/drive/1fy8KM4pV6xsnN5oiHVilhXMB4J6awBgp?usp=sharing
-        - label: QUIZ
-          type: quiz
-          title: <b>Reading Quiz 5 Released (due May 22, 11:59 pm)</b>
-          
-    - date: "2025-04-30"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section - Project Teams
-          slides: https://docs.google.com/presentation/d/1lRQnnJt-ImR97ttP-qrmGTtmP06Vndxs/edit#slide=id.g351ddd9b9ea_0_336
-          
-    - date: "2025-05-01"
-      in_class: true
-      events:
-        - label: LEC 
-          type: lecture
-          title: CANCELED
-          slides: 
-        - label: OHs
-          type: lecture
-          title: OPEN Office Hours
-          slides: 
-        - label: PROJECT
-          type: project
-          title: <b>Group Project Topics Due</b>
-          submission: https://docs.google.com/forms/d/e/1FAIpQLSdf6lXHf6l9a2JqD8Ox1f5DmIUB8PrnA773sHKRB2dcvknmmg/viewform
+          title: Communicating data insights
+          slides: https://canvas.ucsd.edu/
 
-- week: 6
-  title: "Week 6 - Inferential Analysis & Data Literacy<br>
-    <small>
-      🍿 Watch <a href='#'>Statistical Inference in Data Science (TBD)</a>.<br>
-    </small>"
-  days:
-    - date: "2025-05-06"
+    - date: "2026-02-12"
       in_class: true
       events:
         - label: LEC 10
           type: lecture
-          title: Communicating DS
-          slides: https://drive.google.com/file/d/1tkJ02dL7qbaJAk-Ky-DL1djp09Xy7Mhs/view?usp=sharing
-        - label: HW
-          type: hw
-          title: <b>Assignment 3 Released (due May 22, 11:59 pm)</b>
-          
-    - date: "2025-05-07"
+          title: Reproducibility & computational workflows
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-02-13"
       in_class: true
       events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          
-    - date: "2025-05-08"
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 7
+  title: "Week 7 - Algorithms and Computability<br>
+    <small>
+      📘 Read <a href='#'>R5 Preview: Organizing Data (TBD)</a>.<br>
+    </small>"
+  days:
+    - date: "2026-02-16"
+      in_class: false
+      events:
+        - label: HW
+          type: hw
+          title: "<b>Due: A1 data visualization</b>"
+
+    - date: "2026-02-17"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "Guest lecture: Sundas Khalid — Principal Analytics Lead, Google Search; YouTuber & Educator"
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-02-19"
       in_class: true
       events:
         - label: LEC 11
           type: lecture
-          title: Inferential Analysis
-          slides: https://drive.google.com/file/d/1cSo9JxeEqCo8P6NOJNEUpHsFFCPCLUg1/view?usp=sharing
-          demo:  
+          title: Algorithms and computability
+          slides: https://canvas.ucsd.edu/
 
-- week: 7
-  title: "Week 7 - Machine Learning Fundamentals & Applications<br>
+    - date: "2026-02-20"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 8
+  title: "Week 8 - Inference and Machine Learning<br>
     <small>
-      📘 Read <a href='#'>Introduction to Machine Learning (TBD)</a>.<br>
+      📘 Read <a href='#'>R5 Preview: Organizing Data (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-05-13"
+    - date: "2026-02-23"
+      in_class: false
+      events:
+        - label: HW
+          type: hw
+          title: "<b>Due: A2 p-values</b>"
+
+    - date: "2026-02-24"
       in_class: true
       events:
         - label: LEC 12
           type: lecture
-          title: Machine Learning (Supervised vs. Unsupervised Learning Reinforcement & Deep Learning)
-          slides: https://drive.google.com/file/d/1hYqGawEtPUmcPB_tsIWsXdTSp7Ds8U3M/view?usp=sharing     
-          
-    - date: "2025-05-14"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          
-    - date: "2025-05-15"
+          title: Statistical inference
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-02-26"
       in_class: true
       events:
         - label: LEC 13
           type: lecture
-          title: Machine Learning Part 2
-          slides: https://drive.google.com/file/d/1izVBVZMBr2YXe1BXmHr9H98EhvynVVVu/view?usp=sharing      
-        - label: PROJECT
-          type: project
-          title: <b>Project P1 Due</b>
+          title: Machine learning
+          slides: https://canvas.ucsd.edu/
 
-- week: 8
-  title: "Week 8 - Specialized Data Types & Industry Perspectives<br>
+    - date: "2026-02-27"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 9
+  title: "Week 9 - Exam 2 + Organizing Data<br>
     <small>
-      🍿 Watch <a href='#'>Text and Geospatial Data Analysis (TBD)</a>.<br>
+      📘 Read <a href='#'>R5: Organizing Data (TBD)</a>.<br>
     </small>"
   days:
-    - date: "2025-05-20"
+    - date: "2026-03-02"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discuss R5: <i>Organizing Data</i> + Exam review
+          slides: https://canvas.ucsd.edu/
+        - label: QUIZ
+          type: quiz
+          title: "<b>Due: R5 quiz</b>"
+
+    - date: "2026-03-03"
+      in_class: true
+      events:
+        - label: EXAM 2
+          type: exam
+          title: EXAM 2
+
+    - date: "2026-03-05"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "Guest lecture: Emma Krause — Staff Machine Learning Engineer, PathAI"
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-03-06"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 10
+  title: "Week 10 - Applications and the Future<br>
+    <small>
+      📘 Read <a href='#'>Wrap-up (TBD)</a>.<br>
+    </small>"
+  days:
+    - date: "2026-03-09"
+      in_class: false
+      events:
+        - label: HW
+          type: hw
+          title: "<b>Due: A3 machine learning</b>"
+
+    - date: "2026-03-10"
       in_class: true
       events:
         - label: LEC 14
           type: lecture
-          title: Geospatial Data Analysis
-          slides: https://drive.google.com/file/d/12W1JLd5PsUFDcAhHKtnj2CTfFTtTUygb/view?usp=sharing
-          demo: 
-          code:       
-          
-    - date: "2025-05-21"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          
-    - date: "2025-05-22"
+          title: Data science applications
+          slides: https://canvas.ucsd.edu/
+
+    - date: "2026-03-12"
       in_class: true
       events:
         - label: LEC 15
           type: lecture
-          title: Guest Lecture (Ahmed) -- Deep Learning
-          slides: https://drive.google.com/file/d/1GVam7gEpvNxQazhZNY8PzL6ZtUWO3t8r/view?usp=sharing
-          demo: https://drive.google.com/file/u/0/d/1ovYMK_OHxITvo5-r6-g9d3tG7sGQWRsg/edit   
+          title: Future of data science
+          slides: https://canvas.ucsd.edu/
 
-- week: 9
-  title: "Week 9 - Guest Lectures & Industry Insights<br>
+    - date: "2026-03-13"
+      in_class: true
+      events:
+        - label: OH
+          type: office_hours
+          title: PLA office hours
+
+- week: 11
+  title: "Week 11 - Final Project Wrap-up<br>
     <small>
-      📘 Read <a href='#'>Data Science in Industry (TBD)</a>.<br>
+      🎥 Final deliverable due this week. No final exam.<br>
     </small>"
   days:
-    - date: "2025-05-27"
-      in_class: true
+    - date: "2026-03-17"
+      in_class: false
       events:
-        - label: LEC 16
-          type: lecture
-          title: Data Science Talk Medical Data Sciecne
-          slides: https://drive.google.com/file/d/1kvbyi7IMMwVJxyIGOqMk3DkDVEsuFr8l/view?usp=sharing      
-          
-    - date: "2025-05-28"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          
-    - date: "2025-05-29"
-      in_class: true
-      events:
-        - label: LEC
-          type: lecture
-          title: Guest Lecture - ML
-          recording: https://youtu.be/IBSyWraGaTM 
-
-- week: 10
-  title: "Week 10 - Modern AI Applications & Future of Data Science<br>
-    <small>
-      🍿 Watch <a href='#'>The Future of Data Science (TBD)</a>.<br>
-    </small>"
-  days:
-    - date: "2025-06-03"
-      in_class: true
-      events:
-        - label: LEC 17
-          type: lecture
-          title: Algorithms
-          slides: https://drive.google.com/file/d/12MbsQ8eYC6_4RkmJ_hYv5u_aiDSXCFOr/view?usp=sharing
-          demo: https://drive.google.com/file/d/1jYVufl252P5xBK3UBQ_sw2-y3rEW7mqB/view?usp=sharing
-          
-    - date: "2025-06-04"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: Discussion Section
-          
-    - date: "2025-06-05"
-      in_class: true
-      events:
-        - label: LEC 18
-          type: lecture
-          title: Future of Data Science + LLMs Demo
-          slides: https://drive.google.com/file/d/1YWrcP9Jh5MpVQEwss1Z_W7X8kK8fzFOU/view?usp=sharing
-          demo: https://drive.google.com/file/d/1JvolP55NS5yG4_okgr5HtKqUOOGhdBDW/view?usp=sharing
-
-        - label: PROJECT
+        - label: PROJ
           type: project
-          title: <b>Project Report Due (~10 pages)</b>
-        - label: PROJECT
-          type: project
-          title: <b>Project P2/Video Due (7 min video)</b>
+          title: "<b>Due: P2 final group project video*</b>"
+        - label: MISC
+          type: misc
+          title: "<b>NO FINAL EXAM</b>"
