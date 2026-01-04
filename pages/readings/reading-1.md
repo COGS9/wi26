@@ -17,5 +17,5 @@ Reading 1 is mainly concerned with defining data science, and thinking about how
 This is the longest reading, so please take your time and start early!
 ## Additional Resources
 
-- [R1 Reading Guide](https://docs.google.com/document/d/1SYmwZgbX2te2jc6Zwo48EefQ6Aftw3cjsjPdI9r5ECA/edit?usp=sharing)
-  - this reading guide highlights the major ideas to focus on in the paper. **You will not turn in the guide**—it’s simply here to help you distill the paper and keep track of the main points. Use it before you read (to preview what to look for), while you read (to take notes), and after you read (to review). It will also be a helpful reference when preparing for the reading quiz!
+- R1 Reading Guide <a href="https://docs.google.com/document/d/1SYmwZgbX2te2jc6Zwo48EefQ6Aftw3cjsjPdI9r5ECA/edit?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
+  - This reading guide highlights the major ideas to focus on in the paper. **You will not turn in the guide**—it’s simply here to help you distill the paper and keep track of the main points. Use it before you read (to preview what to look for), while you read (to take notes), and after you read (to review). It will also be a helpful reference when preparing for the reading quiz!
