@@ -30,7 +30,7 @@ nav_order: 1
 {% include staffer.html staff=staff nobio='true' %}
 
 {: .important }
-If you are joining the course late and would still like to earn full credit for assignments, please **[read this](https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?tab=t.0#heading=h.l1tve2rn62el)**
+If you are joining the course late and would still like to earn full credit for assignments, please **[read this](https://docs.google.com/document/d/1wNoespOvpfwMG5H4839B1Ap2KSnDMXlp3jQ-fbNBmWk/edit?tab=t.0#heading=h.l1tve2rn62el)**!
 
 ## Office Hours
 * **Prof. Lai** : Tues, 2-3pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom OR Thurs, 2-3pm** (walk-in) @ CSB244
