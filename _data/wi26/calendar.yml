@@ -39,7 +39,7 @@
 - week: 2
   title: "Week 2 - Ethics & Data<br>
     <small>
-      📘 Read <a href='#'> </a><br>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-2\" target=\"_blank\" rel=\"noopener\">R2: Ethics Readings</a>
     </small>"
   days:
     - date: "2026-01-12"
@@ -80,7 +80,7 @@
 - week: 3
   title: "Week 3 - Data Collection and Wrangling<br>
     <small>
-      📘 Read <a href='#'>R2: Ethics</a><br>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-3\" target=\"_blank\" rel=\"noopener\">R3: Data Organization Readings</a>
     </small>"
   days:
     - date: "2026-01-19"
@@ -119,10 +119,7 @@
 
  
 - week: 4
-  title: "Week 4 <br>
-    <small>
-      📘 Read <a href='#'>R3: Organizing Data</a><br>
-    </small>"
+  title: "Week 4"
   days:
     - date: "2026-01-26"
       in_class: true
@@ -159,8 +156,8 @@
 
 - week: 5
   title: "Week 5 - Data visualization & EDA<br>
-    <small>
-      📘 Read <a href='#'>R4: Data Visualization </a><br>
+       <small>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-4\" target=\"_blank\" rel=\"noopener\">R4: Data Visualization Readings</a>
     </small>"
   days:
     - date: "2026-02-02"
@@ -198,10 +195,7 @@
           title: PLA office hours
 
 - week: 6
-  title: "Week 6 - Communication & Reproducibility<br>
-    <small>
-      📘 Read <a href='#'>R4: Data Visualization</a><br>
-    </small>"
+  title: "Week 6 - Communication & Reproducibility"
   days:
     - date: "2026-02-09"
       in_class: true
@@ -238,10 +232,7 @@
           title: PLA office hours
 
 - week: 7
-  title: "Week 7 - Algorithms<br>
-    <small>
-      📘 Read <a href='#'>R5 Preview: Organizing Data (TBD)</a>.<br>
-    </small>"
+  title: "Week 7 - Algorithms"
   days:
     - date: "2026-02-16"
       in_class: false
@@ -276,7 +267,7 @@
 - week: 8
   title: "Week 8 - Inference and Machine Learning<br>
     <small>
-      📘 Read <a href='#'>R5 Preview: Organizing Data</a><br>
+      📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-4\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
     </small>"
   days:
     - date: "2026-02-23"
@@ -310,10 +301,7 @@
           title: PLA office hours
 
 - week: 9
-  title: "Week 9<br>
-    <small>
-      📘 Read <a href='#'>R5: Machine Learning</a><br>
-    </small>"
+  title: "Week 9"
   days:
     - date: "2026-03-02"
       in_class: true
