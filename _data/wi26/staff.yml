@@ -2,7 +2,7 @@
   email: lai@ucsd.edu
   role: Instructor
   website: https://www.lucylai.com
-  photo: images/lucy.png
+  photo: https://cogs9.github.io/wi26/images/lucy.png
   description: CogSci B.A. @ Rice → Neuroscience Ph.D. @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
   hometown: Houston, TX
   askabout: Grad school, living in Japan 🇯🇵, anime, latin dancing 💃
@@ -10,7 +10,7 @@
 - name: Jiesen Zhang
   email: xxx@ucsd.edu
   role: TA
-  photo: /images/jiesen.png
+  photo: https://cogs9.github.io/wi26/images/jiesen.png
   description:
   hometown: 
   askabout: 
