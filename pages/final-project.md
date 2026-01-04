@@ -8,12 +8,25 @@ permalink: /group-project/
 
 # Group Project
 
-For your Group Project, I want you to explore the various approaches to Data Science you will be learning this quarter. Specifically, you are required to outline how you would integrate a variety of Data Scientific methods and theories in a project addressing a novel question that can be answered using data. Imagine you knew all the ins-and-outs of Data Science, data mining, analysis, programming, and statistics, and write your final outlining your question, hypothesis, overall approach, analysis, and conclusion.
+For your Group Project, you will explore and synthesize the data science approaches you’re learning this quarter. Your task is to propose a project that tackles a novel question that can be answered with data, and to describe how you would integrate multiple data science methods and ideas to address it. Write as if you already had full command of data science—data collection, data mining, wrangling, programming, statistical reasoning, and analysis—and focus on clearly outlining your question, hypothesis, overall approach, planned analyses, and expected conclusions.
 
-Your question could be purely scientific (e.g., "How do different cultures perceive different colors?"), just interesting (e.g., "What are commonly misheard song lyrics?"), or statistical (e.g., "How big do crowds need to be for reliable estimates of different kinds of questions?").
+Your question can be:
 
-Your project will have the following sections: Question, Hypothesis, Background Information, Data, Ethical Considerations, Analysis Proposal, Discussion, Group Participation
+* Scientific (e.g., “How do different cultures perceive different colors?”)
+* Just plain interesting (e.g., “What are commonly misheard song lyrics?”)
+* Statistical/methodological (e.g., “How large do crowds need to be to produce reliable estimates for different types of questions?”)
 
-Remember to proofread your essays and that you are not using overly flowery and/or vague language. Use as few words as possible, but no less, to describe your approach. Concision is key, you wouldn’t over engineer a system. Correct? Why would you over engineer your prose? Think Hemmingway, not Faulkner. A small portion of your grade will be dependent on your ability to write clearly, and logically, and without errors that should be caught during a proofreading. As well as your ability to follow all the instructions laid out in this document.
+Your project must include the following sections:
 
-You will turn in one PDF as a group into Gradescope by the due date for part 1, part 2 and the video. There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructors and all your teammates. Before the due date.
+1. Question
+2. Hypothesis
+3. Background Information
+4. Data
+5. Ethical Considerations
+6. Analysis Proposal
+7. Discussion
+8. Group Participation
+
+Write with clarity and precision. Proofread carefully, avoid flowery or vague language, and aim for concise writing—use as many words as necessary, but no more. A portion of your grade will reflect the quality of your writing: clear, logical, and free of avoidable errors, as well as your ability to follow the instructions in this document.
+
+**Submission:** Your group will submit one PDF per deliverable (Part 1, Part 2, and the video submission as instructed) to Gradescope by the posted deadlines. Late submissions are not accepted unless circumstances outside your control arise. If that happens, email the course instructors and your teammates before the deadline.
