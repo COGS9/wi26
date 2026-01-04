@@ -35,9 +35,9 @@ If you are joining the course late and would still like to earn full credit for 
 3. submit all missed assignments (R1 quiz + Pre-course survey + Syllabus quiz + R2 quiz) by **Friday 11:59pm of Week 3**. No other assignments after those in Weeks 1 & 2 will be accepted late in this fashion.
 
 ## Office Hours
-**Prof. Lai** : Tues, 2-3pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom OR Thurs, 2-3pm** (walk-in) @ CSB244
-**TAs**: During discussion section
-**PLAs**: Friday, 12-2p @ Zoom AND CSB 180
+* **Prof. Lai** : Tues, 2-3pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom OR Thurs, 2-3pm** (walk-in) @ CSB244
+* **TAs**: During discussion section
+* **PLAs**: Friday, 12-2p @ Zoom AND CSB 180
 
 <!-- **{{ course_vars.announcement.text }}** -->
 
