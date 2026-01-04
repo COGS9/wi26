@@ -18,7 +18,7 @@
 - name: Fuling Sun
   email: xxx@ucsd.edu
   role: TA
-  photo: /images/fuling.png
+  photo: https://cogs9.github.io/wi26/images/
   description:
   hometown: 
   askabout: 
@@ -26,7 +26,7 @@
 - name: Ian Zane
   email: xxx@ucsd.edu
   role: TA
-  photo: /images/ian.png
+  photo: https://cogs9.github.io/wi26/images/
   description:
   hometown: 
   askabout: 
@@ -34,7 +34,7 @@
 - name:  Alex Nieto
   email: xxx@ucsd.edu
   role: IA
-  photo: /images/
+  photo: https://cogs9.github.io/wi26/images/
   description:
   hometown: 
   askabout: 
@@ -42,7 +42,7 @@
 - name: TQ Zhang
   email: xxx@ucsd.edu
   role: IA
-  photo: /images/
+  photo: https://cogs9.github.io/wi26/images/tq.jpg
   description:
   hometown: 
   askabout: 
@@ -50,7 +50,7 @@
 - name: Adrian Apsay
   email: xxx@ucsd.edu
   role: IA
-  photo: /images/
+  photo: https://cogs9.github.io/wi26/images/
   description:
   hometown: 
   askabout: 
@@ -58,7 +58,7 @@
 - name: Brandon Ng
   email: xxx@ucsd.edu
   role: IA
-  photo: /images/
+  photo: https://cogs9.github.io/wi26/images/brandon.jpg
   description:
   hometown: 
   askabout: 
@@ -66,7 +66,7 @@
 - name: Jayminn Anand
   email: xxx@ucsd.edu
   role: IA
-  photo: /images/
+  photo: https://cogs9.github.io/wi26/images/
   description:
   hometown: 
   askabout: 
@@ -74,7 +74,7 @@
 - name:  Yash Date
   email: xxx@ucsd.edu
   role: IA
-  photo: /images/
+  photo: https://cogs9.github.io/wi26/images/yash.jpg
   description:
   hometown: 
   askabout: 
