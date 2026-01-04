@@ -30,9 +30,7 @@ nav_order: 1
 {% include staffer.html staff=staff nobio='true' %}
 
 {: .important }
-If you are joining the course late and would still like to earn full credit for assignments, you MUST: 1. email Prof. Lai + your section TA/PLA (see [syllabus](https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing)) letting us know that you joined the course late so we don’t count your work late. **You MUST notify us before the end of Week 3.**
-2. read the [course syllabus](https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing) and catch up on missed lectures (see podcast)
-3. submit all missed assignments (R1 quiz + Pre-course survey + Syllabus quiz + R2 quiz) by **Friday 11:59pm of Week 3**. No other assignments after those in Weeks 1 & 2 will be accepted late in this fashion.
+If you are joining the course late and would still like to earn full credit for assignments, you **MUST**: (1) email Prof. Lai + your section TA/PLA (see [syllabus](https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing)) **before the end of Week 3** letting us know that you joined the course late so we don’t count your work late. (2) Read the [course syllabus](https://docs.google.com/document/d/1G8SD9n54daiYbeYOqWQfL4beGwLJiq4AFJvM7zNcmX0/edit?usp=sharing) and catch up on missed lectures (see podcast) (3) submit all missed assignments (R1 quiz + Pre-course survey + Syllabus quiz + R2 quiz) by **Friday 11:59pm of Week 3**. No other assignments after those in Weeks 1 & 2 will be accepted late in this fashion.
 
 ## Office Hours
 * **Prof. Lai** : Tues, 2-3pm** ([book](https://calendar.app.google/1nebbtvdYdn6WFpw5) only) @ CSB 244/Zoom OR Thurs, 2-3pm** (walk-in) @ CSB244
