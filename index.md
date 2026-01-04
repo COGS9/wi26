@@ -15,7 +15,7 @@ nav_order: 1
 # {{ site.tagline }}
 
 {: .mb-2 }
-{{ site.description }} <span title="https://jarv.is/" class="wave">👋</span>
+{{ site.description }}
 {: .fs-6 .fw-300 }
 
 {{ course_vars.quarter }}
