@@ -8,7 +8,7 @@ permalink: /assignment/assignment-2
 ---
 
 <h2>Assignment 2</h2>
-- Assignment 2 Google Doc <a href="https://docs.google.com/document/d/1SUMHhSXSYsHIZA-kY_yCzY8mZzHupKzBLzVk1zM0mNU/edit?usp=sharing" target="_blank" rel="noopener">view &#x2197;</a>
+- Assignment 2 Google Doc (released later)
 
 <h2>Frequently Asked Questions - FAQ</h2>
 
