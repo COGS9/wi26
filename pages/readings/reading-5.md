@@ -12,7 +12,13 @@ permalink: /readings/reading-5
 - Nicholas Diakopoulos, 2016, Accountability in Algorithmic Decision Making <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r5a-algorithmic-decision-making.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 - Julia Angwin, et al., 2016, Machine Bias <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r5b_machine_bias.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 
-These readings are more about the issues with machine learning, rather than how to go about building cool models. In class we cover some of the awesome stuff you can accomplish with data and algorithms. But these readings are here to allow you to better see some of the inherent flaws, and data generating issues that these models learn from. These flaws are not just academic, but they really do exist in currently used machine learning systems. If we want to build technology to serve people, and improve society, we must really learn to understand and identify areas where machine learning is not working well, or being misapplied. 
+These readings focus less on how to build impressive machine learning models and more on the problems and pitfalls that come with using them. In class, we’ll cover many of the powerful things you can do with data and algorithms—but it’s just as important to understand where these tools break down. 
+
+The issues discussed here aren’t merely academic. Many of them show up in real, widely deployed machine learning systems, often because models learn patterns from flawed, biased, or incomplete data-generating processes. If we want to build technology that serves people and improves society, we need to be able to recognize when machine learning is failing, misleading, or being misapplied, and know how to respond responsibly.
+
+## Reading Guide
+- R5 Reading Guide <a href="www.docs.google.com" target="_blank" rel="noopener">coming soon! &#x2197;</a>
+  - This reading guide highlights the major ideas to focus on in the paper. **You will not turn in the guide**—it’s simply here to help you distill the paper and keep track of the main points. Use it before you read (to preview what to look for), while you read (to take notes), and after you read (to review). It will also be a helpful reference when preparing for the reading quiz/exam!
 
 ## Additional Resources
 
