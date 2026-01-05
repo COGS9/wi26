@@ -8,7 +8,6 @@ permalink: /exam/
 
 <h1>Exams</h1>
 
-## Exam Dates
 There will be **two, non-cumulative exams** in this class (please mark them in your calendar!): 
 * **Tuesday, Jan 27**
 * **Tuesday, Mar 6**
