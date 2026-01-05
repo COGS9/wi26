@@ -8,7 +8,7 @@
   askabout: Grad school, living in Japan 🇯🇵, anime, latin dancing 💃
 
 - name: Jiesen Zhang
-  email: xxx@ucsd.edu
+  email: jiz147@ucsd.edu
   role: TA
   photo: https://cogs9.github.io/wi26/images/jiesen.png
   description:
@@ -16,31 +16,31 @@
   askabout: 
 
 - name: Fuling Sun
-  email: xxx@ucsd.edu
+  email: fusun@ucsd.edu
   role: TA
-  photo: 
+  photo: https://cogs9.github.io/wi26/images/fuling.jpg
   description:
   hometown: 
   askabout: 
 
 - name: Ian Zane
-  email: xxx@ucsd.edu
+  email: izane@ucsd.edu
   role: TA
-  photo: 
+  photo: https://cogs9.github.io/wi26/images/ian.jpg
   description:
   hometown: 
   askabout: 
 
 - name:  Alex Nieto
-  email: xxx@ucsd.edu
+  email: alnieto@ucsd.edu
   role: IA
-  photo:
+  photo: https://cogs9.github.io/wi26/images/alex.jpg
   description:
   hometown: 
   askabout: 
 
 - name: TQ Zhang
-  email: xxx@ucsd.edu
+  email: tiz019@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/tq.jpg
   description:
@@ -48,15 +48,15 @@
   askabout: 
   
 - name: Adrian Apsay
-  email: xxx@ucsd.edu
+  email: adapsay@ucsd.edu
   role: IA
-  photo: 
+  photo: https://cogs9.github.io/wi26/images/adrian.jpg
   description:
   hometown: 
   askabout: 
 
 - name: Brandon Ng
-  email: xxx@ucsd.edu
+  email: b5ng@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/brandon.jpg
   description:
@@ -64,17 +64,25 @@
   askabout: 
 
 - name: Jayminn Anand
-  email: xxx@ucsd.edu
+  email: j2anand@ucsd.edu
   role: IA
-  photo: 
+  photo: https://cogs9.github.io/wi26/images/jayminn.jpg
   description:
   hometown: 
   askabout: 
 
 - name:  Yash Date
-  email: xxx@ucsd.edu
+  email: ydate@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/yash.jpg
+  description:
+  hometown: 
+  askabout: 
+  
+- name:  Zhicheng Wang
+  email: zhw049@ucsd.edu
+  role: IA
+  photo: https://cogs9.github.io/wi26/images/zhicheng.png
   description:
   hometown: 
   askabout: 
