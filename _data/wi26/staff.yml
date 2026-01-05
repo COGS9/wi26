@@ -1,6 +1,6 @@
 - name: Lucy Lai
   email: lai@ucsd.edu
-  role: Instructor
+  type: Instructor
   website: https://www.lucylai.com
   photo: https://cogs9.github.io/wi26/images/lucy.png
   description: B.A. in CogSci @ Rice → Ph.D. in Neuroscience @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
