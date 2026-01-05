@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Group Project Checkpoint 2 - Video
+title:  Project Checkpoint 2 Video
 has_children: false
 parent: 🗂️ Group Project
 nav_order: 5
