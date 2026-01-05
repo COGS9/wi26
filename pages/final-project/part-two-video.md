@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Final Project Part 2 - Video
+title:  Group Project Checkpoint 2 - Video
 has_children: false
 parent: 🗂️ Final Project
 nav_order: 5
-permalink: /final-group-project/part-two-video
+permalink: /group-project/video
 ---
 
-# Group Project Checkpoint 2 - Video Submission
+# Group Project Checkpoint 2 - Video
 
 ## Instructions
 
