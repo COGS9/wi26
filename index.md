@@ -38,7 +38,7 @@ If you are joining the course late and would still like to earn full credit for 
   * Thurs, 2-3pm (walk-in!) @ CSB 244
 * **TAs**: During discussion section
 * **PLAs**:
-  * Fri, 12-2p @ Zoom (Brandon, Jayminn, Yash)
+  * Fri, 12-2p @ <a href="https://ucsd.zoom.us/j/97105211157" target="_blank" rel="noopener">Zoom &#x2197;</a> (Brandon, Jayminn, Yash) 
   * Fri, 12-1p @ CSB _Room TBD_ (Alex)
   * Fri, 1-2p @ HDSI 155 (Adrian, TQ)
 
