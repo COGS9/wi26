@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Final Project Part 2
+title: Group Project Checkpoint - Part 2
 has_children: false
 parent: 🗂️ Final Project
 nav_order: 4
-permalink: /final-group-project/part-two
+permalink: /group-project/checkpoint-2
 ---
 <h1>Group Project Checkpoint - Part 2</h1>
 
