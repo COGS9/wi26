@@ -12,7 +12,11 @@ permalink: /readings/reading-2
 - Loukides M, Mason, H & Patil DJ, Data's Day of Reckoning <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2a-ethics-data-reckoning.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 - Narayanan and Shmatikov, Privacy & Security Myths & Fallacies of "PII" <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2b-ethics-privacy-security.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 
-Reading 2 is about ethics, and specifically, the ethical issues that arise when working with large amounts of data. In class, we talk more about the topic and theory of ethics, with some practical examples. These readings go into much more detail about practical applications for ethics in data science, how you may want to tackle such challenges, and why they exist. Patil's article has a lot of good practical tips to think about when writing your ethics section in Assignment 1 and the final. Narayanan's paper provides a close look into the issues surrounding personal data and the dangers inherent when working with and storing such data.
+Reading 2 focuses on ethics—specifically, the ethical challenges that come with working with large-scale data. In class, we’ll introduce the core ideas and frameworks in ethics and walk through practical examples. These readings go further by emphasizing how ethical issues show up in real data science work, why they arise, and how you might respond to them in practice.
+
+Patil’s article offers concrete, actionable guidance for thinking through ethical tradeoffs and building responsible practices. It’s especially useful when you write the ethics section in Assignment 1 and in your final project.
+
+Narayanan’s paper takes a deeper dive into the risks of working with personal data, including how collecting, linking, and storing data can create harms—even when intentions are good. It highlights why privacy and data protection are not optional add-ons, but central to responsible analysis.
 
 ## Reading Guide
 - R2 Reading Guide <a href="www.docs.google.com" target="_blank" rel="noopener">coming soon! &#x2197;</a>
