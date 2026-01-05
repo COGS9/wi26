@@ -29,4 +29,4 @@ Your project must include the following sections:
 
 Write with clarity and precision. Proofread carefully, avoid flowery or vague language, and aim for concise writing—use as many words as necessary, but no more. A portion of your grade will reflect the quality of your writing: clear, logical, and free of avoidable errors, as well as your ability to follow the instructions in this document.
 
-**Submission:** Your group will submit one PDF per deliverable (Part 1, Part 2, and the video submission as instructed) to Gradescope by the posted deadlines. Late submissions are not accepted unless circumstances outside your control arise. If that happens, email the course instructors and your teammates before the deadline.
+**Submission:** Your group will submit one PDF for Checkpoints 1 and 2, and one final video presentation to Gradescope by the posted deadlines. Late submissions are not accepted unless circumstances outside your control arise. If that happens, email your section TAs/PLAs and your teammates before the deadline!
