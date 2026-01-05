@@ -18,16 +18,16 @@
       <a href="mailto:{{ staff.email }}">{{ staff.email }}</a>
       {% endif %}
       {% if staff.type %}
-      • {{ staff.type }}
+         {{ staff.type }}
       {% endif %}
       {% if staff.lecture %}
     <p><b>Lecture(s)</b>: {{ staff.lecture }}</p>
     {% endif %}
     </p>
     {% unless include.nobio == 'true' %}
-    <p title="Description">🎓 {{ staff.description }}</p>
-    <p title="Hometown">🏠 {{ staff.hometown }}</p>
-    <p title="In office hours, ask me about...">💬 {{ staff.askabout }}</p>
+    <p title="Description">Degree 🎓 {{ staff.description }}</p>
+    <p title="Hometown">Hometown 🏠 {{ staff.hometown }}</p>
+    <p title="In office hours, ask me about...">Ask me about 💬 {{ staff.askabout }}</p>
     {% endunless %}
   </div>
 </div>
