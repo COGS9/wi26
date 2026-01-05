@@ -18,7 +18,7 @@
       events:
         - label: LEC 1
           type: lecture
-          title: Course overview 
+          title: Course overview & what is data science?
           slides: https://canvas.ucsd.edu/
 
     - date: "2026-01-08"
@@ -47,12 +47,18 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R1 Data Science
+          title: Intro, discuss R1
           slides: https://canvas.ucsd.edu/
           
         - label: QUIZ
           type: quiz
-          title: Due R1 quiz
+          title: '<span style="color: red;">R1 quiz DUE @ 11:59pm</span>' '<a href="ucsd.canvas.edu" target="_blank" rel="noopener" style="color: red; text-decoration: underline;">submit here</a>'
+        - label: MISC
+          type: quiz
+          title: '<span style="color: red;">Syllabus quiz DUE @ 11:59pm</span>' '<a href="ucsd.canvas.edu" target="_blank" rel="noopener" style="color: red; text-decoration: underline;">submit here</a>'
+        - label: MISC
+          type: quiz
+          title: '<span style="color: red;">Pre-course survey DUE @ 11:59pm</span>' '<a href="ucsd.canvas.edu" target="_blank" rel="noopener" style="color: red; text-decoration: underline;">submit here</a>'
 
     - date: "2026-01-13"
       in_class: true
