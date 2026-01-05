@@ -11,7 +11,7 @@
       events:
         - label: DISC
           type: disc
-          title: NO Discussion Section
+          title: '<span style="color: red;">NO Discussion Section</span>'
 
     - date: "2026-01-06"
       in_class: true
