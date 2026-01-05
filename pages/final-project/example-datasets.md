@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Example Datasets
+title: Datasets
 has_children: false
 parent: 🗂️ Final Project
 nav_order: 2
-permalink: /final-group-project/example-datasets
+permalink: /group-project/datasets
 ---
 
 <h1>Finding Datasets</h1>
