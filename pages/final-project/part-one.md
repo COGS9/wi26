@@ -6,7 +6,7 @@ parent: 🗂️ Final Project
 nav_order: 3
 permalink: /final-group-project/part-one
 ---
-<h1>Group Project Checkpoint - Part 2</h1>
+<h1>Group Project Checkpoint - Part 1</h1>
 
 - Checkpoint 1 Google Doc <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
   - You cannot edit this document directly. Instead, make a copy in your own Google Drive and share edit access with all group members. Your group should do all of its work in that copied document. When you’re ready to submit, export the document as a PDF and upload one group submission to Gradescope. You may resubmit as many times as you like before the deadline.
