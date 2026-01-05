@@ -2,7 +2,7 @@
 layout: default
 title: Group Project Checkpoint - Part 2
 has_children: false
-parent: 🗂️ Final Project
+parent: 🗂️ Group Project
 nav_order: 4
 permalink: /group-project/checkpoint-2
 ---
