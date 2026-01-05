@@ -7,14 +7,14 @@ nav_order: 5
 permalink: /final-group-project/part-two-video
 ---
 
-# Final Project Part 2 Video Submission
+# Group Project Checkpoint 2 - Video Submission
 
 ## Instructions
 
 Your team will create a **7-10 minute video presentation** explaining your data science project. This video serves as the culmination of your work and should professionally showcase your analysis, findings, and collaborative efforts.
 
 ### Video Requirements:
-- **Length**: 7-10 minutes (videos significantly shorter or longer may lose points)
+- **Length**: 7-10 minutes with slides (videos significantly shorter or longer may lose points)
 - **Participation**: Each team member must speak for at least 1 minute
 - **Content Coverage**: Your video must address all major components of your project:
   - Research question and hypothesis
@@ -26,25 +26,21 @@ Your team will create a **7-10 minute video presentation** explaining your data 
   - Limitations and future directions
 
 ### Technical Requirements:
-- Host as an **unlisted** YouTube video
-- Ensure audio is clear and background noise is minimized
-- Visual elements (slides, code, visualizations) should be legible
-- If using slides, include your team name and member names on the first slide
+- Include your group members' names on the first slide
+- - Ensure audio is clear and background noise is minimized
+- Visual elements (slides, code, visualizations) should be legible, with minimum font of **15pt**
 
 ### Submission Process:
-1. Upload your video to YouTube as "unlisted"
+1. Upload your video to YouTube as [**unlisted** video](https://itsupport.umd.edu/itsupport/?id=kb_article_view&sysparm_article=KB0012442)
 2. Submit the video URL to Gradescope as a **group submission**
 3. Ensure all team members are added to the submission
 4. Double-check that the link works and is accessible before final submission
 
-### Remote Collaboration:
-If team members cannot meet in person, you may record a Zoom meeting with all participants visible. Screen sharing should be used to present visual elements.
-
 ### Grading Considerations:
-- Technical (from what we covered in class, remmeebr not code, but ideas and concepts) accuracy of content
+- Technical accuracy of content
 - Clarity of presentation
-- Equal contribution from all team members
 - Professional delivery and organization
+- Individual contribution
 - Adherence to time requirements
 
 > **IMPORTANT**: No late submissions will be accepted without prior approval for extenuating circumstances. If you encounter an issue outside your control, email your course instructors AND all teammates BEFORE the due date.
