@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Group Project Checkpoint - Part 2
+title: Project Checkpoint 2
 has_children: false
 parent: 🗂️ Group Project
 nav_order: 4
