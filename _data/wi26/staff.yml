@@ -1,13 +1,12 @@
-- name: Lucy Lai
+- name: Lucy Lai (Instructor)
   email: lai@ucsd.edu
-  type: Instructor
   website: https://www.lucylai.com
   photo: https://cogs9.github.io/wi26/images/lucy.png
   description: B.A. in CogSci @ Rice → Ph.D. in Neuroscience @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
   hometown: Houston, TX
   askabout: Grad school, living in Japan 🇯🇵, anime, latin dancing 💃
 
-- name: Jiesen Zhang
+- name: Jiesen Zhang (TA)
   email: jiz147@ucsd.edu
   type: TA
   photo: https://cogs9.github.io/wi26/images/jiesen.png
@@ -15,7 +14,7 @@
   hometown: 
   askabout: 
 
-- name: Fuling Sun
+- name: Fuling Sun (TA)
   email: fusun@ucsd.edu
   type: TA
   photo: https://cogs9.github.io/wi26/images/fuling.jpg
@@ -23,7 +22,7 @@
   hometown: 
   askabout: 
 
-- name: Ian Zane
+- name: Ian Zane (TA)
   email: izane@ucsd.edu
   type: TA
   photo: https://cogs9.github.io/wi26/images/ian.jpg
@@ -31,7 +30,7 @@
   hometown: 
   askabout: 
 
-- name:  Alex Nieto
+- name:  Alex Nieto (PLA)
   email: alnieto@ucsd.edu
   type: PLA
   photo: https://cogs9.github.io/wi26/images/alex.jpg
@@ -39,7 +38,7 @@
   hometown: Garden Grove, CA
   askabout: (K)pop music, Pokémon, Stardew Valley
 
-- name: TQ Zhang
+- name: TQ Zhang (PLA)
   email: tiz019@ucsd.edu
   type: PLA
   photo: https://cogs9.github.io/wi26/images/tq.jpg
@@ -47,7 +46,7 @@
   hometown: Dallas, TX 🤠
   askabout: linguistics/language modeling, music, cooking 🍳
   
-- name: Adrian Apsay
+- name: Adrian Apsay (PLA)
   email: adapsay@ucsd.edu
   type: PLA
   photo: https://cogs9.github.io/wi26/images/adrian.jpg
@@ -55,7 +54,7 @@
   hometown: San Diego, CA ☀️
   askabout: basketball🏀  & volleyball🏐, playing/listening to music, traveling, food recs
 
-- name: Brandon Ng
+- name: Brandon Ng (PLA)
   email: b5ng@ucsd.edu
   type: PLA
   photo: https://cogs9.github.io/wi26/images/brandon.jpg
@@ -63,7 +62,7 @@
   hometown: Bay Area, CA (specifically, Castro Valley)
   askabout: food recs and bakeries in SD 🥐
 
-- name: Jayminn Anand
+- name: Jayminn Anand (PLA)
   email: j2anand@ucsd.edu
   type: PLA
   photo: https://cogs9.github.io/wi26/images/jayminn.jpg
@@ -71,7 +70,7 @@
   hometown: 
   askabout: 
 
-- name:  Yash Date
+- name:  Yash Date (PLA)
   email: ydate@ucsd.edu
   type: PLA
   photo: https://cogs9.github.io/wi26/images/yash.jpg
@@ -79,7 +78,7 @@
   hometown: 
   askabout: 
   
-- name:  Zhicheng Wang
+- name:  Zhicheng Wang (Reader)
   email: zhw049@ucsd.edu
   type: Reader
   photo: https://cogs9.github.io/wi26/images/zhicheng.png
