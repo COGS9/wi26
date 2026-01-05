@@ -6,29 +6,36 @@ parent: 🗂️ Final Project
 nav_order: 4
 permalink: /final-group-project/part-two
 ---
+<h1>Group Project Checkpoint - Part 2</h1>
 
-<h1>Final Part 2</h1>
+- Checkpoint 2 Google Doc <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
+  - You cannot edit this document directly. Instead, make a copy in your own Google Drive and share edit access with all group members. Your group should do all of its work in that copied document. When you’re ready to submit, export the document as a PDF and upload one group submission to Gradescope. You may resubmit as many times as you like before the deadline.
 
-- Final Project part 2 Google Doc <a href="https://docs.google.com/document/d/1mHDgAL1KwrPn9W8KopT9pCOCJWJOlO7Ibh-45tCoJe0/edit?usp=drivesdk" target="_blank" rel="noopener">view &#x2197;</a>
+{: .warning }
+Please do NOT submit multiple files on Gradescope. Each group should submit one PDF total, with all group members’ names and PIDs included in the document.
 
 <h2>Instructions</h2>
 
-You can access the Final Project template (link above). Make a copy of this document and give edit rights to all members of the group. The first five sections of this document are the same as the first part. You should copy and paste your first part into this document, replacing the pertinent sections. Be sure to incorporate feedback from the instructional staff you received on A1 and update anywhere with information you learned in the second half of the course to improve these sections. It is OK if these sections remain largely the same as what you submitted for A1 if you believe they are solid and good to go. But now that we have learned quite a bit since A1 was due. And we will be looking for cleaner text and clear logic. E.g. you may need to tighten up your data science question in order to do an analysis.
+The first five sections of Checkpoint 2 are the same as those in Checkpoint 1. You should copy and paste the relevant sections from your earlier submission into this document, replacing the placeholders as needed. Be sure to incorporate any feedback you received from the instructional staff on Assignment 1, and update the content using what you’ve learned in the second half of the course.
+
+It’s fine if these sections remain largely unchanged if you believe they are already strong. However, you should revisit them with a more critical eye. By this point in the course, we expect clearer writing, tighter logic, and more refined thinking—for example, you may need to sharpen your data science question so that it supports a well-defined analysis.
 
 {: .note }
-You are allowed to completely change your original project from part 1, if as a group you decide you want to go in another direction. You do not have to get approval to do so. 
+You may completely change your project direction from Checkpoint 1 if your group decides to do so. No prior approval is required.
 
-After editing the first five sections of your project, you will replace "ADD YOUR GROUP’S TEXT HERE AND DELETE INSTRUCTIONS ABOVE" with your group’s response for the remaining sections and delete the grey instructions for the following sections:
+After revising the first five sections, replace the text “ADD YOUR GROUP’S TEXT HERE AND DELETE INSTRUCTIONS ABOVE” with your group’s responses for the remaining sections, and delete the grey instructional text in the following sections:
 - Analysis Proposal
 - Discussion
 - Group Participation
 
-For these additional sections, read the instructions provided on your document for each section. Replace the instructions within each section with your group’s project information. When complete, **save the document as a PDF and submit on Gradescope**. Be sure to add all group members to the submission on Gradescope. Note! You (individually, not the group) can’t receive a passing score on this final if you don’t contribute. **Please make sure everyone on your team has responsibility. If you do not contribute anything…**
+For each of these sections, carefully read the instructions provided in the document and replace them with your group’s content.
 
-*You shall not pass...*
+When finished, **save the document as a PDF and submit it to Gradescope.** Be sure to add all group members to the Gradescope submission.
+
+**Important:** Individual grades depend on contribution—if you do not contribute, you will not receive credit for the project! **Please make sure everyone on your team has an assigned responsibility.**
 
 {: .warning }
-There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructors and all your teammates. Before the due date.
+There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructors and all your teammates **before** the due date.
 
 <h2>Additional Resources</h2>
 
