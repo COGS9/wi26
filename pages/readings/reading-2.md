@@ -36,7 +36,9 @@ Deon <a href="https://deon.drivendata.org/" target="_blank" rel="noopener">view 
 
 ### HIPAA Data
 
-For anyone interested, Health Insurance Portability and Accountability Act (HIPAA) data cover the following 18 data identifiers:
+The HIPAA Privacy Rule protects individually identifiable health information. HIPAA defines 18 identifiers that count as personally identifiable information—data that could identify, contact, or locate a person, either on its own or when combined with other sources. When this identifying information is linked to someone’s health condition, care, or payment for care, it is considered Protected Health Information (PHI).
+
+If a dataset contains any of the 18 identifiers (even partial forms, like initials), it is considered identified. A dataset is only de-identified if all 18 identifiers are removed, including all dates, voice recordings, and photographic images:
 
 - Name
 - Address (all geographic subdivisions smaller than a state, including street address, city county, and zip code)
@@ -57,7 +59,3 @@ For anyone interested, Health Insurance Portability and Accountability Act (HIPA
 - Photographic image - Photographic images are not limited to images of the face.
 - Any other characteristic that could uniquely identify the individual
 {: .fs-2 }
-
-The HIPAA privacy rule sets forth policies to protect all individually identifiable health information that is held or transmitted. These are the 18 HIPAA Identifiers that are considered personally identifiable information. This information can be used to identify, contact, or locate a single person or can be used with other sources to identify a single individual. When personally identifiable information is used in conjunction with one’s physical or mental health or condition, health care, or one’s payment for that health care, it becomes Protected Health Information (PHI).
-
-If a communication contains any of these identifiers, or parts of the identifier, such as initials, the data is to be considered "identified".   To be considered "de-identified", ALL of the 18 HIPAA Identifiers must be removed from the data set.  This includes all dates, such as surgery dates, all voice recordings, and all photographic images.
