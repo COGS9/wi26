@@ -14,6 +14,10 @@ permalink: /readings/reading-2
 
 Reading 2 is about ethics, and specifically, the ethical issues that arise when working with large amounts of data. In class, we talk more about the topic and theory of ethics, with some practical examples. These readings go into much more detail about practical applications for ethics in data science, how you may want to tackle such challenges, and why they exist. Patil's article has a lot of good practical tips to think about when writing your ethics section in Assignment 1 and the final. Narayanan's paper provides a close look into the issues surrounding personal data and the dangers inherent when working with and storing such data.
 
+## Reading Guide
+- R2 Reading Guide <a href="www.docs.google.com" target="_blank" rel="noopener">coming soon! &#x2197;</a>
+  - This reading guide highlights the major ideas to focus on in the paper. **You will not turn in the guide**—it’s simply here to help you distill the paper and keep track of the main points. Use it before you read (to preview what to look for), while you read (to take notes), and after you read (to review). It will also be a helpful reference when preparing for the reading quiz/exam!
+    
 ## Additional Resources
 
 ### Security
