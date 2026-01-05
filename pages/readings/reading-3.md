@@ -12,7 +12,9 @@ permalink: /readings/reading-3
 - Hadley Wickham, 2014, Tidy Data <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r3a_tidy_data.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 - Broman & Woo, 2018, Data organization in spreadsheets <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r3b_spreadsheets.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 
-This reading focuses on the process of cleaning data, also known as data "munging" or data "wrangling". Primarily we focus on spreadsheet type of data, because this is likely to be some of the first data you encounter in future classes and it is ubiquitous in the real world scenarios. There are many other instances of tidy data when dealing with images, text, video, so on and so forth, but the skills and theory behind tidy data (as presented in these readings) are foundational and absolutely required to begin wrangling other, more complex, data types.
+This reading introduces the process of cleaning and organizing data—often called data “wrangling” or “munging.” We’ll focus primarily on spreadsheet-style (tabular) data, since it’s often the first type of data you’ll encounter in future courses and it’s ubiquitous in real-world work.
+
+While “tidy data” principles also apply to more complex data types—like images, text, audio, and video—the core skills and ideas presented here are foundational. Learning how to structure and tidy tabular data is an essential first step toward wrangling messy, high-dimensional, or unstructured data later on.
 
 
 ## Reading Guide
