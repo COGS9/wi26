@@ -31,7 +31,7 @@ Your team will create a **7-10 minute video presentation** explaining your data 
 - Visual elements (slides, code, visualizations) should be legible, with minimum font of **15pt**
 
 ### Submission Process:
-1. Upload your video to YouTube as [**unlisted** video](https://itsupport.umd.edu/itsupport/?id=kb_article_view&sysparm_article=KB0012442)
+1. Upload your video to YouTube as **unlisted** video <a href="https://itsupport.umd.edu/itsupport/?id=kb_article_view&sysparm_article=KB0012442" target="_blank" rel="noopener">instructions &#x2197;</a> 
 2. Submit the video URL to Gradescope as a **group submission**
 3. Ensure all team members are added to the submission
 4. Double-check that the link works and is accessible before final submission
