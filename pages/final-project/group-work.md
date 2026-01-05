@@ -1,23 +1,25 @@
 ---
 layout: default
-title: Group Work Primer
+title: Advice
 has_children: false
 parent: 🗂️ Final Project
 nav_order: 1
-permalink: /final-group-project/group-work-primer
+permalink: /group-project/advice
 ---
 
-# Primer on Group Work
+# Advice for Group Projects
 
-Group projects are difficult because getting a group of people on the same page and working collaboratively on a single goal involves good communication. Please follow the advice below for how to effectively work on a group project. This is mostly the same practical advice I give new hires and junior data scientists in the industry when working on a team-based report. It is a process that has yielded good results in the real world.
+Group projects can be challenging. Getting multiple people aligned and working toward a shared goal requires clear communication and structure. The guidance below reflects best practices for group work:
 
-1. There needs to be a team leader. This person should be expected to contribute less work but will have the all-important task of directing the flow of the project, gathering requirements, and checking on the status of work. This person should be the organizer of the document and also ensure there is one single voice in the report.
-2. Select a single messaging/communication channel. There needs to be a technology that everyone agrees on and will check to ensure timely communication. It could be Email, WhatsApp, Discord, LINE, etc. It does not matter, but there needs to be something. I prefer Discord for college projects.
-3. Each person needs to be assigned a task, and every person should have a backup, in case they drop the class, become ill, or need help to understand and finish a task, e.g. write the ethics portion.
-4. First draft of deliverables should be added to the document at least 3-4 days before the due date to allow for proofreading, and revisions, and to be pulled into the main text body and unified.
-5. Every person should be assigned a different section to proofread.
-6. Communicate early and often. If you have an issue, become ill, or need help. Do not wait until the final day to reach out to your team. The later you wait the more work there will be and it will feel rushed and the pressure will mount. It is perfectly fine to have trouble/issues. But try not to make issues for your team by having a lack of communication.
-7. Before you begin to work on a part by yourself, have an initial meeting where you discuss the requirements, think through some ideas, and ensure everyone is on the same page and in agreement. A lot of times people say they understand something, or "know what you are talking about" ask them to repeat it to the group in their own words. It is not about being right or wrong, but about ensuring there are no gaps in understanding. As they will become larger as time goes on if they are not resolved early and often.
-8. Finally, make sure you meet and do not wait for everyone to be free to meet. In all of your meetings, there should be someone taking notes and meeting minutes. Email these out or add them to a google drive folder for everyone to review. This is especially helpful if someone can't make a meeting. Do not keep pushing a meeting or choose not to meet because 1-2 people can't make it. 
+1. **Designate a team leader.** This person may do slightly less hands-on writing, but plays a critical role in coordinating the project: organizing the document, clarifying requirements, tracking progress, and ensuring the final report has a single, consistent voice.
+2. **Choose one communication channel.** Pick a platform everyone agrees to use and will check regularly (email, Discord, WhatsApp, LINE, etc.). The specific tool doesn’t matter—consistency does. For student projects, I recommend Discord.
+3. **Assign clear responsibilities.** Every team member should have a defined task, and each task should have a backup person in case someone gets sick, drops the class, or needs help completing their work (e.g., the ethics section).
+4. **Start early on drafts.** Initial drafts should be added to the shared document at least 3–4 days before the deadline. This allows time for revision, proofreading, and integrating sections into a cohesive final product.
+5. **Distribute proofreading.** Assign each person a section they did not write to proofread. This improves clarity and catches errors.
+6. **Communicate early and often.** If you’re stuck, confused, or dealing with an issue, let your team know as soon as possible. Waiting until the last day increases stress and workload for everyone. Problems are normal; lack of communication is not.
+7. **Meet before dividing work.** Start with an initial group meeting to discuss the requirements, brainstorm ideas, and confirm shared understanding. A useful technique is to ask team members to restate the plan in their own words—this helps uncover misunderstandings early, before they grow into larger problems.
+8. **Meet regularly and take notes.** Don’t postpone meetings until everyone is available. Meet anyway, assign someone to take notes, and share meeting minutes afterward (via email or a shared folder). This keeps everyone informed, especially those who can’t attend.
 
-Hope this helps!
+I hope this helps set your group up for a smooth and successful collaboration!
+
+Prof. Lai
