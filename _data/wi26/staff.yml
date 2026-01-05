@@ -3,7 +3,7 @@
   role: Instructor
   website: https://www.lucylai.com
   photo: https://cogs9.github.io/wi26/images/lucy.png
-  description: CogSci B.A. @ Rice → Neuroscience Ph.D. @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
+  description: B.A. in CogSci @ Rice → Ph.D. in Neuroscience @ Harvard → Visiting Scholar @ OIST (Japan) → COGS prof @ UCSD
   hometown: Houston, TX
   askabout: Grad school, living in Japan 🇯🇵, anime, latin dancing 💃
 
@@ -11,7 +11,7 @@
   email: jiz147@ucsd.edu
   role: TA
   photo: https://cogs9.github.io/wi26/images/jiesen.png
-  description:
+  description: B.S. in Data Science & Math-CS @ UCSD → First-year MSCS student
   hometown: 
   askabout: 
 
@@ -35,33 +35,33 @@
   email: alnieto@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/alex.jpg
-  description:
-  hometown: 
-  askabout: 
+  description: 4th-year Cogs ML spec. Neural Computation
+  hometown: Garden Grove, CA
+  askabout: (K)pop music, Pokémon, Stardew Valley
 
 - name: TQ Zhang
   email: tiz019@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/tq.jpg
-  description:
-  hometown: 
-  askabout: 
+  description: 4th-year Data Science
+  hometown: Dallas, TX 🤠
+  askabout: linguistics/language modeling, music, cooking 🍳
   
 - name: Adrian Apsay
   email: adapsay@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/adrian.jpg
-  description:
-  hometown: 
-  askabout: 
+  description: 4th-Year Data Science 
+  hometown: San Diego, CA ☀️
+  askabout: basketball🏀  & volleyball🏐, playing/listening to music, traveling, food recs
 
 - name: Brandon Ng
   email: b5ng@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/brandon.jpg
-  description:
-  hometown: 
-  askabout: 
+  description: 4th-Year Data Science  
+  hometown: Bay Area, CA (specifically, Castro Valley)
+  askabout: food recs and bakeries in SD 🥐
 
 - name: Jayminn Anand
   email: j2anand@ucsd.edu
@@ -83,6 +83,6 @@
   email: zhw049@ucsd.edu
   role: IA
   photo: https://cogs9.github.io/wi26/images/zhicheng.png
-  description:
-  hometown: 
-  askabout: 
+  description: B.S. in Cogs ML & Math-CS @ UCSD → First-year MSCS student
+  hometown: Fujian, China 🇨🇳 
+  askabout: Video games :O
