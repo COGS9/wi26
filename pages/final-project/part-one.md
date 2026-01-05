@@ -6,14 +6,13 @@ parent: 🗂️ Final Project
 nav_order: 3
 permalink: /final-group-project/part-one
 ---
+<h1>Group Project Checkpoint - Part 2</h1>
 
-<h1>Group Project Checkpoint - Part 1</h1>
-
-- Project part 1 Google Doc <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
-  - You can not edit this document, you must create a duplicate of it in your own Google Drive. Your group will work out of this document. When ready to submit, save/export the document as a PDF, and turn it in as one submission (per group) in Gradescope. You may resubmit the document as many times as you like before the deadline.
+- Checkpoint 1 Google Doc <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
+  - You cannot edit this document directly. Instead, make a copy in your own Google Drive and share edit access with all group members. Your group should do all of its work in that copied document. When you’re ready to submit, export the document as a PDF and upload one group submission to Gradescope. You may resubmit as many times as you like before the deadline.
 
 {: .warning }
-Do not make multiple submissions on Gradescope per group member. You submit the document once as a group, with all names/PIDs on the PDF.
+Please do NOT submit multiple files on Gradescope. Each group should submit one PDF total, with all group members’ names and PIDs included in the document.
 
 <h2>Instructions</h2>
 This project checkpoint covers the first half of your final project. In this report, you will include information in the following sections of what will become your final project:
