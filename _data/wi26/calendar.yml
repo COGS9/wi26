@@ -19,10 +19,10 @@
         - label: LEC 1
           type: lecture
           title: Course overview & what is data science?
-          slides: https://canvas.ucsd.edu/
+          slides: https://drive.google.com/file/d/16iH9zJfOkqCvmqjuKevgaOMnZvWSDQom/view?usp=sharing
         - label: MISC
           type: misc
-          title: '[💡 Webclicker 101**](https://docs.google.com/document/d/1SedBxPlvlJkJ8NJwnbnwFijgt_QDrioI8De0SNpFYc0/edit?usp=sharing)'
+          title: '<a href="https://docs.google.com/document/d/1SedBxPlvlJkJ8NJwnbnwFijgt_QDrioI8De0SNpFYc0/edit?usp=sharing" target="_blank" rel="noopener">💡 Webclicker 101</a>'
 
     - date: "2026-01-08"
       in_class: true
@@ -30,7 +30,7 @@
         - label: LEC 2
           type: lecture
           title: Data science questions
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-01-09"
       in_class: true
@@ -51,7 +51,7 @@
         - label: DISC
           type: disc
           title: Intro, discuss R1
-          slides: https://canvas.ucsd.edu/
+          slides: 
           
         - label: QUIZ
           type: quiz
@@ -72,7 +72,7 @@
         - label: LEC 3
           type: lecture
           title: Ethics and privacy
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-01-15"
       in_class: true
