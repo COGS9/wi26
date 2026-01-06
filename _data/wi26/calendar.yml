@@ -55,16 +55,16 @@
           
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R1 quiz DUE @ 11:59pm</span> <a href="https://ucsd.canvas.edu" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R1 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/240187" target="_blank" rel="noopener">submit here</a>'
 
           
         - label: MISC
           type: quiz
-          title: '<span style="color: red;">Syllabus quiz DUE @ 11:59pm</span> <a href=\"ucsd.canvas.edu\" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Syllabus quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/239582" target="_blank" rel="noopener">submit here</a>'
           
         - label: MISC
           type: quiz
-          title: '<span style="color: red;">Pre-course survey DUE @ 11:59pm</span> <a href=\"ucsd.canvas.edu\" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Pre-course survey DUE @ 11:59pm</span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxpHnBMhkkAh-Rf4lITVRUunQe_Fc154iXRieXz84NuWfKQ/viewform?usp=header" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-13"
       in_class: true
