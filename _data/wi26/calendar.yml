@@ -59,11 +59,11 @@
 
           
         - label: MISC
-          type: quiz
+          type: misc
           title: '<span style="color: red;">Syllabus quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/239582" target="_blank" rel="noopener">submit here</a>'
           
         - label: MISC
-          type: quiz
+          type: misc
           title: '<span style="color: red;">Pre-course survey DUE @ 11:59pm</span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxpHnBMhkkAh-Rf4lITVRUunQe_Fc154iXRieXz84NuWfKQ/viewform?usp=header" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-13"
@@ -294,7 +294,7 @@
         - label: LEC 12
           type: lecture
           title: Statistical inference
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-02-26"
       in_class: true
@@ -302,7 +302,7 @@
         - label: LEC 13
           type: lecture
           title: Machine learning
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-02-27"
       in_class: true
@@ -320,7 +320,7 @@
         - label: DISC
           type: disc
           title: Discuss R5 + Exam review
-          slides: https://canvas.ucsd.edu/
+          slides: 
         - label: QUIZ
           type: quiz
           title: Due R5 quiz
@@ -338,7 +338,7 @@
         - label: GUEST
           type: guest
           title: "Guest lecture: Emma Krause — Staff Machine Learning Engineer, PathAI"
-          slides: https://canvas.ucsd.edu/
+          slides:
 
     - date: "2026-03-06"
       in_class: true
@@ -363,7 +363,7 @@
         - label: LEC 14
           type: lecture
           title: Data science applications
-          slides: https://canvas.ucsd.edu/
+          slides:
 
     - date: "2026-03-12"
       in_class: true
@@ -371,7 +371,7 @@
         - label: LEC 15
           type: lecture
           title: Future of data science
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-03-13"
       in_class: true
