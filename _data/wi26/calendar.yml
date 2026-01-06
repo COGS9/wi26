@@ -80,7 +80,7 @@
         - label: LEC 4
           type: lecture
           title: Data & data types
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-01-16"
       in_class: true
@@ -101,7 +101,7 @@
         - label: DISC
           type: disc
           title: Discuss R2 Ethics
-          slides: https://canvas.ucsd.edu/
+          slides: 
         - label: QUIZ
           type: quiz
           title: Due R2 quiz
@@ -112,7 +112,7 @@
         - label: LEC 5
           type: lecture
           title: Obtaining data
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-01-22"
       in_class: true
@@ -120,7 +120,7 @@
         - label: LEC 6
           type: lecture
           title: Data wrangling
-          slides: https://canvas.ucsd.edu/
+          slides:
 
     - date: "2026-01-23"
       in_class: true
@@ -139,7 +139,7 @@
         - label: DISC
           type: disc
           title: Discuss R3 + exam review
-          slides: https://canvas.ucsd.edu/
+          slides: 
         - label: QUIZ
           type: quiz
           title: R3 quiz DUE @ 11:59pm
@@ -157,7 +157,7 @@
         - label: GUEST
           type: guest
           title: "Guest lecture: Eddie Reyes — Co-Founder, Buoy Health & Forbes 30u30"
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-01-30"
       in_class: true
@@ -178,7 +178,7 @@
         - label: DISC
           type: disc
           title: Group work
-          slides: https://canvas.ucsd.edu/
+          slides: 
         - label: PROJ
           type: project
           title: DUE P1 group project proposal
@@ -189,7 +189,7 @@
         - label: LEC 7
           type: lecture
           title: Data visualization
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-02-05"
       in_class: true
@@ -197,7 +197,7 @@
         - label: LEC 8
           type: lecture
           title: Hypothesis testing and exploratory data analysis
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-02-06"
       in_class: true
@@ -215,7 +215,7 @@
         - label: DISC
           type: disc
           title: Discuss R4 Data Visualization
-          slides: https://canvas.ucsd.edu/
+          slides: 
         - label: QUIZ
           type: quiz
           title: DUE R4 quiz
@@ -226,7 +226,7 @@
         - label: LEC 9
           type: lecture
           title: Communicating data insights
-          slides: https://canvas.ucsd.edu/
+          slides: 
 
     - date: "2026-02-12"
       in_class: true
@@ -234,7 +234,7 @@
         - label: LEC 10
           type: lecture
           title: Reproducibility & computational workflows
-          slides: https://canvas.ucsd.edu/
+          slides:
 
     - date: "2026-02-13"
       in_class: true
@@ -256,18 +256,17 @@
     - date: "2026-02-17"
       in_class: true
       events:
-        - label: GUEST
-          type: guest
-          title: "Guest lecture: Sundas Khalid — Principal Analytics Lead, Google Search; YouTuber & Educator"
-          slides: https://canvas.ucsd.edu/
-
-    - date: "2026-02-19"
-      in_class: true
-      events:
         - label: LEC 11
           type: lecture
           title: Algorithms and computability
-          slides: https://canvas.ucsd.edu/
+          slides:
+    
+    - date: "2026-02-19"
+      in_class: true
+      events:
+        - label: GUEST
+          type: guest
+          title: "Guest lecture: Sundas Khalid — Principal Analytics Lead, Google Search; YouTuber & Educator"
 
     - date: "2026-02-20"
       in_class: true
