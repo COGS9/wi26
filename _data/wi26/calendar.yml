@@ -20,6 +20,9 @@
           type: lecture
           title: Course overview & what is data science?
           slides: https://canvas.ucsd.edu/
+        - label: MISC
+          type: misc
+          title: '[💡 Webclicker 101**](https://docs.google.com/document/d/1SedBxPlvlJkJ8NJwnbnwFijgt_QDrioI8De0SNpFYc0/edit?usp=sharing)'
 
     - date: "2026-01-08"
       in_class: true
