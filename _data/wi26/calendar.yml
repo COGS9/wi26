@@ -30,7 +30,7 @@
         - label: LEC 2
           type: lecture
           title: Data science questions
-          slides: 
+          slides: https://drive.google.com/file/d/1IeG4GkKgU2BrNcJgvv2CCfQ4zGPlxPT9/view?usp=drive_link
 
     - date: "2026-01-09"
       in_class: true
