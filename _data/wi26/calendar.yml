@@ -179,6 +179,9 @@
           type: disc
           title: Group work
           slides: 
+        - label: PROJ
+          type: project
+          title: DUE P1 group project proposal
 
     - date: "2026-02-03"
       in_class: true
@@ -216,9 +219,6 @@
         - label: QUIZ
           type: quiz
           title: DUE R4 quiz
-        - label: PROJ
-          type: project
-          title: DUE P1 group project proposal
 
     - date: "2026-02-10"
       in_class: true
