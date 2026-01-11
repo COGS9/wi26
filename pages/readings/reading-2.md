@@ -9,10 +9,10 @@ permalink: /readings/reading-2
 
 # Reading 2
 
-- Loukides M, Mason, H & Patil DJ, Data's Day of Reckoning <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2a-ethics-data-reckoning.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- Narayanan and Shmatikov, Privacy & Security Myths & Fallacies of "PII" <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2b-ethics-privacy-security.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Loukides M, Mason, H & Patil DJ, Data's Day of Reckoning <a href="https://drive.google.com/file/d/1FQo0yPbGFgPLiy2nx3d_8h0KLTDrtJ-x/view?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
+- Narayanan and Shmatikov, Myths & Fallacies of "Personally Identifiable Information" <a href="https://drive.google.com/file/d/1pPLXOupM34WQlHONQyasQJ7GEdhuX-dB/view?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
 
-Reading 2 focuses on ethics—specifically, the ethical challenges that come with working with large-scale data. In class, we’ll introduce the core ideas and frameworks in ethics and walk through practical examples. These readings go further by emphasizing how ethical issues show up in real data science work, why they arise, and how you might respond to them in practice.
+These readings focus on ethics—specifically, the ethical challenges that come with working with large-scale data. In class, we’ll introduce the core ideas and frameworks in ethics and walk through practical examples. These readings go further by emphasizing how ethical issues show up in real data science work, why they arise, and how you might respond to them in practice.
 
 Patil’s article offers concrete, actionable guidance for thinking through ethical tradeoffs and building responsible practices. It’s especially useful when you write the ethics section in Assignment 1 and in your final project.
 
