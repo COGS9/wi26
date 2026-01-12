@@ -3,7 +3,7 @@ layout: default
 title:  Project Checkpoint 2 Video
 has_children: false
 parent: 🗂️ Group Project
-nav_order: 5
+nav_order: 6
 permalink: /group-project/video
 ---
 
