@@ -10,6 +10,7 @@ permalink: /group-project/checkpoint-1
 
 - Checkpoint 1 Google Doc <a href="https://docs.google.com/document/d/1qIw-vE9MVFrf5ECPiZ1E-aHOkvI5FtJmJUFfEDj_rF0/edit?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
   - You cannot edit this document directly. Instead, **make a copy** in your own Google Drive and share edit access with all group members. Your group should do all of its work in that copied document. When you’re ready to submit, export the document as a PDF and upload one group submission to Gradescope. You may resubmit as many times as you like before the deadline.
+-  Project groups survey form (EVERYONE must fill this out!) <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
 
 {: .warning }
 Please do **NOT** submit multiple files on Gradescope. Each group should submit **one PDF total**, with all group members’ names and PIDs included in the document.
