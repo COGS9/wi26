@@ -16,3 +16,5 @@ You will have **two options** for forming a project group of 3-4 students:
 
 {: .important }
 **Project groups will be finalized by Monday of Week 4** and Project Checkpoint #1 is **due Monday of Week 5**
+
+If you are not in a group by Monday of Week 4, you must reach out to your TA/PLA ASAP! Also reach out to your TA/PLA early if there are any issues with group members dropping. Sometimes a group member will not tell their group they dropped the class and just go into silent mode. If you are unsure, ask your TA and they can verify the student’s status. In any case, it’s best to move forward with the members who are responsive, since repeatedly waiting on an unresponsive teammate is unlikely to be productive.
