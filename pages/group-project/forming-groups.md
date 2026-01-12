@@ -1,7 +1,12 @@
+---
+layout: default
+title: Forming Groups
+has_children: false
+parent: 🗂️ Group Project
+nav_order: 3
+permalink: /group-project/groups
+---
 -  Project groups survey form (EVERYONE must fill this out!) <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
-
-{: .warning }
-Please do **NOT** submit multiple files on Gradescope. Each group should submit **one PDF total**, with all group members’ names and PIDs included in the document.
 
 <h2>Forming Groups</h2>
 
