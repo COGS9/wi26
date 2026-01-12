@@ -3,7 +3,7 @@ layout: default
 title: Advice
 has_children: false
 parent: 🗂️ Group Project
-nav_order: 1
+nav_order: 7
 permalink: /group-project/advice
 ---
 
