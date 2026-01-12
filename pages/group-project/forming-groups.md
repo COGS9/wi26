@@ -6,9 +6,10 @@ parent: 🗂️ Group Project
 nav_order: 3
 permalink: /group-project/groups
 ---
--  Project groups survey form (EVERYONE must fill this out!) <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
 
-<h2>Forming Groups</h2>
+<h1>Forming Project Groups</h1>
+
+-  Project groups survey form (EVERYONE must fill this out!) <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
 
 You will have **two options** for forming a project group of 3-4 students:
 1. You may choose your own group—we highly, highly recommend choosing students who are in **the same discussion section** as you (meaning those who are regularly attending that section), so that you can use section time to meet and touch base about the project. If you want to form group with friends outside of your section, **please ensure** that you are able to meet regularly with them. This is _your_ responsibility!
