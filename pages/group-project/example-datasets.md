@@ -3,7 +3,7 @@ layout: default
 title: Datasets
 has_children: false
 parent: 🗂️ Group Project
-nav_order: 2
+nav_order: 8
 permalink: /group-project/datasets
 ---
 
