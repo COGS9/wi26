@@ -100,7 +100,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R2 Ethics
+          title: '<span style="color: red;">HOLIDAY—NO Discussion Section (everyone gets free +1pt)</span>'
           slides: 
         - label: QUIZ
           type: quiz
