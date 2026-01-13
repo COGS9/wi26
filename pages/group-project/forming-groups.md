@@ -11,7 +11,7 @@ permalink: /group-project/groups
 
 -  Project groups survey form (EVERYONE must fill this out!) <a href=" " target="_blank" rel="noopener">coming soon! &#x2197;</a>
 
-You will have **two options** for forming a project group of 3-4 students:
+You will have **two options** for forming a project group of 3-5 students (both options are equally awesome!):
 1. You may choose your own group—we highly, highly recommend choosing students who are in **the same discussion section** as you (meaning those who are regularly attending that section), so that you can use section time to meet and touch base about the project. If you want to form group with friends outside of your section, **please ensure** that you are able to meet regularly with them. This is _your_ responsibility!
 2. You may also choose to be assigned a group by us. We will send out a form at the **beginning of Week 3 (due at end of Week 3)** asking you about your topical interests and preferences for group dynamics, and the PLAs will carefully match groups based on your preferences! This can be a great way to meet new people with similar interests and take the stress off of group-finding. These groups will be formed within the section **that you are able to regularly attend**.
 
