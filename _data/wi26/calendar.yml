@@ -72,7 +72,7 @@
         - label: LEC 3
           type: lecture
           title: Ethics and privacy
-          slides: 
+          slides: https://drive.google.com/file/d/1KPdWOjttAU_HQSRADa48VLO4N5-4_OJx/view?usp=drive_link
 
     - date: "2026-01-15"
       in_class: true
@@ -104,7 +104,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: Due R2 quiz
+          title: '<span style="color: red;">R2 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
     
     - date: "2026-01-20"
       in_class: true
@@ -142,7 +142,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: R3 quiz DUE @ 11:59pm
+          title: '<span style="color: red;">R3 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-27"
       in_class: true
@@ -218,7 +218,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: DUE R4 quiz
+          title: '<span style="color: red;">R4 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-02-10"
       in_class: true
@@ -323,7 +323,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: Due R5 quiz
+          title: '<span style="color: red;">R5 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-03-03"
       in_class: true
