@@ -249,6 +249,10 @@
     - date: "2026-02-16"
       in_class: false
       events:
+        - label: DISC
+          type: disc
+          title: '<span style="color: red;">HOLIDAY—NO Discussion Section (everyone gets free +1pt)</span>'
+          slides: 
         - label: HW
           type: hw
           title: Due A1 data visualization
