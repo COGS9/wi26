@@ -81,6 +81,9 @@
           type: lecture
           title: Data & data types
           slides: 
+       - label: MISC
+          type: misc
+          title: 'Project group-finding form <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-16"
       in_class: true
@@ -113,6 +116,9 @@
           type: lecture
           title: Obtaining data
           slides: 
+        - label: MISC
+          type: misc
+          title: '<span style="color: red;">Project group-finding form DUE</span> <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-22"
       in_class: true
