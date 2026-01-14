@@ -81,10 +81,10 @@
           type: lecture
           title: Data & data types
           slides: 
-       - label: MISC
+          
+        - label: MISC
           type: misc
           title: '<a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">Project group-finding form</a>'
-
 
     - date: "2026-01-16"
       in_class: true
