@@ -83,7 +83,8 @@
           slides: 
        - label: MISC
           type: misc
-          title: 'Project group-finding form <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">Project group-finding form</a>'
+
 
     - date: "2026-01-16"
       in_class: true
