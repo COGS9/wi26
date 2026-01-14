@@ -40,7 +40,7 @@ If you are joining the course late and would still like to earn full credit for 
 * **TAs**: During discussion section
 * **PLAs**:
   * Fri, 12-2p @ <a href="https://ucsd.zoom.us/j/97105211157" target="_blank" rel="noopener">Zoom &#x2197;</a> (Brandon, Jayminn) 
-  * Fri, 12-1p @ CSB 150 (Alex)
+  * Fri, 12-1p @ CSB 114 (Alex)
   * Fri, 1-2p @ HDSI 155 (Adrian, TQ)
 
 <!-- **{{ course_vars.announcement.text }}** -->
