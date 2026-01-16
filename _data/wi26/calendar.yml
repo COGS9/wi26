@@ -108,7 +108,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R2 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R2 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241063" target="_blank" rel="noopener">submit here</a>'
     
     - date: "2026-01-20"
       in_class: true
