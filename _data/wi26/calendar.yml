@@ -50,8 +50,16 @@
       events:
         - label: DISC
           type: disc
-          title: Intro, discuss R1
+          title: 9am & 10am section (TA: Fuling)
+          slides: https://drive.google.com/file/d/1VmBgmWXYW9u71JRWdD77X9TjnJqY7akf/view?usp=sharing
+        - label: DISC
+          type: disc
+          title: 11am & 1pm section (TA: Ian)
           slides: 
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm section (TA: Jiesen)
+          slides: https://drive.google.com/file/d/1t0ngFGHcthZWRF6zU686lcPhcGroNwyQ/view?usp=drive_link
           
         - label: QUIZ
           type: quiz
@@ -145,7 +153,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R3 + exam review
+          title: ALL Sections — Exam 1 Review
           slides: 
         - label: QUIZ
           type: quiz
@@ -184,8 +192,17 @@
       events:
         - label: DISC
           type: disc
-          title: Group work
+          title: 9am & 10am section (TA: Fuling)
           slides: 
+        - label: DISC
+          type: disc
+          title: 11am & 1pm section (TA: Ian)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm section (TA: Jiesen)
+          slides: 
+          
         - label: PROJ
           type: project
           title: DUE P1 group project proposal
@@ -221,7 +238,15 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R4 Data Visualization
+          title: 9am & 10am section (TA: Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 11am & 1pm section (TA: Ian)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm section (TA: Jiesen)
           slides: 
         - label: QUIZ
           type: quiz
@@ -298,6 +323,18 @@
         - label: HW
           type: hw
           title: Due A2 p-values
+        - label: DISC
+          type: disc
+          title: 9am & 10am section (TA: Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 11am & 1pm section (TA: Ian)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm section (TA: Jiesen)
+          slides: 
 
     - date: "2026-02-24"
       in_class: true
@@ -330,7 +367,7 @@
       events:
         - label: DISC
           type: disc
-          title: Discuss R5 + Exam review
+          title: ALL Sections - Exam 2 Review
           slides: 
         - label: QUIZ
           type: quiz
@@ -367,6 +404,18 @@
         - label: HW
           type: hw
           title: Due A3 machine learning
+        - label: DISC
+          type: disc
+          title: 9am & 10am section (TA: Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 11am & 1pm section (TA: Ian)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 2pm & 4pm section (TA: Jiesen)
+          slides: 
 
     - date: "2026-03-10"
       in_class: true
