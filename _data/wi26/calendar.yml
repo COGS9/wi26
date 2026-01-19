@@ -161,9 +161,9 @@
     - date: "2026-01-27"
       in_class: true
       events:
-        - label: EXAM 1
+        - label: EXAM
           type: exam
-          title: EXAM 1
+          title: EXAM 1 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
 
     - date: "2026-01-29"
       in_class: true
@@ -376,9 +376,10 @@
     - date: "2026-03-03"
       in_class: true
       events:
-        - label: EXAM 2
+        - label: EXAM
           type: exam
-          title: EXAM 2
+          title: EXAM 2 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
+
 
     - date: "2026-03-05"
       in_class: true
