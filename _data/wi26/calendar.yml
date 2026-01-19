@@ -55,7 +55,7 @@
         - label: DISC
           type: disc
           title: 11am & 1pm section (TA: Ian)
-          slides: 
+          slides: https://drive.google.com/file/d/1HAROQ3BLHI0kMeOaeB7sJNEohnmGVO6D/view?usp=drive_link
         - label: DISC
           type: disc
           title: 2pm & 4pm section (TA: Jiesen)
@@ -63,16 +63,16 @@
           
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R1 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/240187" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/240187" target="_blank" rel="noopener">submit here</a>'
 
           
         - label: MISC
           type: misc
-          title: '<span style="color: red;">Syllabus quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/239582" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Syllabus Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/239582" target="_blank" rel="noopener">submit here</a>'
           
         - label: MISC
           type: misc
-          title: '<span style="color: red;">Pre-course survey DUE @ 11:59pm</span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxpHnBMhkkAh-Rf4lITVRUunQe_Fc154iXRieXz84NuWfKQ/viewform?usp=header" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxpHnBMhkkAh-Rf4lITVRUunQe_Fc154iXRieXz84NuWfKQ/viewform?usp=header" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-13"
       in_class: true
@@ -116,7 +116,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R2 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241063" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R2 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241063" target="_blank" rel="noopener">submit here</a>'
     
     - date: "2026-01-20"
       in_class: true
@@ -127,7 +127,7 @@
           slides: 
         - label: MISC
           type: misc
-          title: '<span style="color: red;">Project group-finding form DUE</span> <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-22"
       in_class: true
@@ -157,7 +157,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R3 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R3 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-01-27"
       in_class: true
@@ -206,6 +206,8 @@
         - label: PROJ
           type: project
           title: DUE P1 group project proposal
+          '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          
 
     - date: "2026-02-03"
       in_class: true
@@ -250,7 +252,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R4 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-02-10"
       in_class: true
@@ -287,7 +289,7 @@
           slides: 
         - label: HW
           type: hw
-          title: Due A1 data visualization
+          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-1" style="color: red;">A1 Data Visualization DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-02-17"
       in_class: true
@@ -322,7 +324,7 @@
       events:
         - label: HW
           type: hw
-          title: Due A2 p-values
+          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
         - label: DISC
           type: disc
           title: 9am & 10am section (TA: Fuling)
@@ -371,7 +373,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R5 quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-03-03"
       in_class: true
@@ -403,7 +405,8 @@
       events:
         - label: HW
           type: hw
-          title: Due A3 machine learning
+          title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-3" style="color: red;">A3 Machine Learning DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+      
         - label: DISC
           type: disc
           title: 9am & 10am section (TA: Fuling)
@@ -443,7 +446,7 @@
 - week: 11
   title: "Week 11 - Final Project<br>
     <small>
-      🎥 Final project due this week. **No final exam**<br>
+      🎥 Final project due this week. **NO FINAL EXAM!**<br>
     </small>"
   days:
     - date: "2026-03-17"
@@ -451,5 +454,9 @@
       events:
         - label: PROJ
           type: project
-          title: P2 final group project video
+          title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-2" style="color: red;">P2 Group Project Checkpoint 2 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+        - label: PROJ
+          type: project
+          title: '<a href="https://cogs9.github.io/wi26/group-project/video" style="color: red;">P2 Group Project Video DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+    
 
