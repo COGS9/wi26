@@ -238,6 +238,9 @@
     - date: "2026-02-09"
       in_class: true
       events:
+        - label: QUIZ
+          type: quiz
+          title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
         - label: DISC
           type: disc
           title: 9am & 10am section (TA: Fuling)
@@ -250,10 +253,7 @@
           type: disc
           title: 2pm & 4pm section (TA: Jiesen)
           slides: 
-        - label: QUIZ
-          type: quiz
-          title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
-
+        
     - date: "2026-02-10"
       in_class: true
       events:
