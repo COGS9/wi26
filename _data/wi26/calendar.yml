@@ -50,15 +50,15 @@
       events:
         - label: DISC
           type: disc
-          title: 9am & 10am section (TA: Fuling)
+          title: 9am & 10am sections (Fuling)
           slides: https://drive.google.com/file/d/1VmBgmWXYW9u71JRWdD77X9TjnJqY7akf/view?usp=sharing
         - label: DISC
           type: disc
-          title: 11am & 1pm section (TA: Ian)
+          title: 11am & 1pm sections (Ian)
           slides: https://drive.google.com/file/d/1HAROQ3BLHI0kMeOaeB7sJNEohnmGVO6D/view?usp=drive_link
         - label: DISC
           type: disc
-          title: 2pm & 4pm section (TA: Jiesen)
+          title: 2pm & 4pm sections (Jiesen)
           slides: https://drive.google.com/file/d/1t0ngFGHcthZWRF6zU686lcPhcGroNwyQ/view?usp=drive_link
         - label: QUIZ
           type: quiz
