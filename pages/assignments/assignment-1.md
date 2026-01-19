@@ -20,5 +20,4 @@ permalink: /assignment/assignment-1
 > Try to look back at the data visualization lecture slides and think about what kind of variables you’re working with. One example is if you have two or more categories that you want to represent the count for, a barplot may be the best way to visualize your data.
 4. For the scatterplots, do we need to show a best fit line or any other expectations?
 > No, for the scatterplots on this assignment, make sure you have a clear title and labeled axis. And make sure the data points are spread evenly across. We only want to see the trend of the data points, so no lines or additional modeling is required. But feel free to add it if it helps you.
-5. Are there any resources to research token analysis?
-> We won’t go into token analysis too much in this class, but NLP (natural language processing) is a unique form of data analysis that involves categorizing words or phrases. If you would like to learn more about natural language processing [this video](https://www.youtube.com/watch?v=5OfJm-1cjKc) provides a great breakdown of token analysis with a Python Jupyter Notebook demo.
+
