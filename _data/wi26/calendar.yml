@@ -60,7 +60,6 @@
           type: disc
           title: 2pm & 4pm section (TA: Jiesen)
           slides: https://drive.google.com/file/d/1t0ngFGHcthZWRF6zU686lcPhcGroNwyQ/view?usp=drive_link
-          
         - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/240187" target="_blank" rel="noopener">submit here</a>'
@@ -205,8 +204,7 @@
           
         - label: PROJ
           type: project
-          title: DUE P1 group project proposal
-          '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
+          title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
           
 
     - date: "2026-02-03"
