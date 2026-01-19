@@ -9,8 +9,8 @@ permalink: /readings/reading-3
 
 # Reading 3
 
-- Hadley Wickham, 2014, Tidy Data <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r3a_tidy_data.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- Broman & Woo, 2018, Data organization in spreadsheets <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r3b_spreadsheets.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Hadley Wickham, 2014, Tidy Data <a href="https://drive.google.com/file/d/1v0YGGZ6jh-7wiNV0IpZj0L7BbLjI0UZp/view?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
+- Broman & Woo, 2018, Data organization in spreadsheets <a href="https://drive.google.com/file/d/1LzHBemj89F0vnbhkYcRmYaWDDfuvKjEM/view?usp=drive_link" target="_blank" rel="noopener">download &#x2197;</a>
 
 This reading introduces the process of cleaning and organizing data—often called data “wrangling” or “munging.” We’ll focus primarily on spreadsheet-style (tabular) data, since it’s often the first type of data you’ll encounter in future courses and it’s ubiquitous in real-world work.
 
