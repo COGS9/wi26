@@ -123,7 +123,8 @@
         - label: LEC 5
           type: lecture
           title: Obtaining data
-          slides: https://drive.google.com/file/d/1CbhcLxbhpbPHjJpOijM2vH8vWmZMwwCr/view?usp=drive_link
+          slides: https://drive.google.com/file/d/1s3UeSIvhpah1S2n8owlze02Lhx5lY1IJ/view?usp=drive_link
+          
         - label: MISC
           type: misc
           title: '<span style="color: red;">Project Group-Finding Form DUE</span> <a href="https://forms.gle/Dba5TXdP6YgVtSBR8" target="_blank" rel="noopener">submit here</a>'
