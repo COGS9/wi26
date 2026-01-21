@@ -239,7 +239,7 @@
       events:
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R4 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241404" target="_blank" rel="noopener">submit here</a>'
         - label: DISC
           type: disc
           title: 9am & 10am sections (Fuling)
@@ -372,7 +372,7 @@
           slides: 
         - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes" target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241405/" target="_blank" rel="noopener">submit here</a>'
 
     - date: "2026-03-03"
       in_class: true
