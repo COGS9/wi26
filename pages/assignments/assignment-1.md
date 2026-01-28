@@ -8,7 +8,8 @@ permalink: /assignment/assignment-1
 ---
 
 <h2>Assignment 1</h2>
-- [Assignment 1 Google Doc](https://docs.google.com/document/d/1_xEyNzbjQWxz2UOectHonCIiag4Q93WxxBeA_6xXchs/edit?usp=sharing)
+- Assignment 1 Google Doc <a href="https://docs.google.com/document/d/1_xEyNzbjQWxz2UOectHonCIiag4Q93WxxBeA_6xXchs/edit?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
+  - You cannot edit this document directly. Instead, **make a copy** in your own Google Drive and do all of your own work in that copied document. When you’re ready to submit, export the document as a PDF and upload it to Gradescope. You may resubmit as many times as you like before the deadline.
 
 <h2>Frequently Asked Questions - FAQ</h2>
 
