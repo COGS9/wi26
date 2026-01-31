@@ -8,6 +8,7 @@ permalink: /assignment/assignment-2
 ---
 
 <h2>Assignment 2</h2>
+
 - Assignment 2 Google Doc <a href="https://docs.google.com/document/d/1ESmGaDC2JC95_FU8YeHEj4qvnb9H8Bb6m7T0aigcG64/edit?usp=sharing" target="_blank" rel="noopener">download &#x2197;</a>
   - You cannot edit this document directly. Instead, **make a copy** in your own Google Drive and do all of your own work in that copied document. When you’re ready to submit, export the document as a PDF and upload it to Gradescope. You may resubmit as many times as you like before the deadline.
 
