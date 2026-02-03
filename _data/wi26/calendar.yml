@@ -205,7 +205,7 @@
       events:
         - label: LEC 7
           type: lecture
-          title: Data visualization (given by aspiring professor & PLA, Alex Nieto!) '<a href="https://docs.google.com/forms/d/e/1FAIpQLScplz6_EuDREacDN2CdXo3PL6ICVOSNQDSH4gCUm0WlgtOARw/viewform" style="color: red;">Give him feedback on his lecture!</a>
+          title: Data visualization (given by aspiring professor & PLA, Alex Nieto!) '<a href="https://docs.google.com/forms/d/e/1FAIpQLScplz6_EuDREacDN2CdXo3PL6ICVOSNQDSH4gCUm0WlgtOARw/viewform" style="color: red;">Give him feedback on his lecture!</a>'
           slides: https://drive.google.com/file/d/103SGVvBYRgnBHQdSwjOjfM2sMQKjzXzX/view?usp=drive_link
 
     - date: "2026-02-05"
