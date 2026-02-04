@@ -183,7 +183,7 @@
           title: PLA office hours
 
 - week: 5
-  title: "Week 5 - Data visualization & EDA<br>
+  title: "Week 5 - Data Visualization & EDA<br>
        <small>
       📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-4\" target=\"_blank\" rel=\"noopener\">R4: Data Visualization Readings</a>
     </small>"
@@ -213,7 +213,7 @@
       events:
         - label: LEC 8
           type: lecture
-          title: Hypothesis testing and exploratory data analysis
+          title: Exploratory data analysis
           slides: 
 
     - date: "2026-02-06"
@@ -224,7 +224,7 @@
           title: PLA office hours
 
 - week: 6
-  title: "Week 6 - Communication & Reproducibility"
+  title: "Week 6 - Statistical Inference & Machine Learning"
   days:
     - date: "2026-02-09"
       in_class: true
@@ -250,7 +250,7 @@
       events:
         - label: LEC 9
           type: lecture
-          title: Communicating data insights
+          title: Statistical inference & hypothesis testing
           slides: 
 
     - date: "2026-02-12"
@@ -258,7 +258,7 @@
       events:
         - label: LEC 10
           type: lecture
-          title: Reproducibility & computational workflows
+          title: Machine learning I
           slides:
 
     - date: "2026-02-13"
@@ -269,7 +269,7 @@
           title: PLA office hours
 
 - week: 7
-  title: "Week 7 - Algorithms"
+  title: "Week 7 - Machine Learning"
   days:
     - date: "2026-02-16"
       in_class: false
@@ -287,7 +287,7 @@
       events:
         - label: LEC 11
           type: lecture
-          title: Algorithms and computability
+          title:  Machine learning II
           slides:
     
     - date: "2026-02-19"
@@ -305,7 +305,7 @@
           title: PLA office hours
 
 - week: 8
-  title: "Week 8 - Inference and Machine Learning<br>
+  title: "Week 8 - Algorithms & Reproducibility<br>
     <small>
       📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-5\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
     </small>"
@@ -334,7 +334,7 @@
       events:
         - label: LEC 12
           type: lecture
-          title: Statistical inference
+          title: Algorithms and computability
           slides: 
 
     - date: "2026-02-26"
@@ -342,7 +342,7 @@
       events:
         - label: LEC 13
           type: lecture
-          title: Machine learning
+          title: Reproducibility & version control
           slides: 
 
     - date: "2026-02-27"
