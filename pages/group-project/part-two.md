@@ -16,7 +16,7 @@ Please do NOT submit multiple files on Gradescope. Each group should submit one 
 
 <h2>Instructions</h2>
 
-The first five sections of Checkpoint 2 are the same as those in Checkpoint 1. You should copy and paste the relevant sections from your earlier submission into this document, replacing the placeholders as needed. Be sure to incorporate any feedback you received from the instructional staff on Assignment 1, and update the content using what you’ve learned in the second half of the course.
+The first five sections of Checkpoint 2 are the same as those in Checkpoint 1. You should copy and paste the relevant sections from your earlier submission into this document, replacing the placeholders as needed. Be sure to incorporate any feedback you received from the instructional staff on Checkpoint 1, and update the content using what you’ve learned in the second half of the course.
 
 It’s fine if these sections remain largely unchanged if you believe they are already strong. However, you should revisit them with a more critical eye. By this point in the course, we expect clearer writing, tighter logic, and more refined thinking—for example, you may need to sharpen your data science question so that it supports a well-defined analysis.
 
