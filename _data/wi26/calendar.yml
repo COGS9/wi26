@@ -447,8 +447,3 @@
         - label: PROJ
           type: project
           title: '<a href="https://cogs9.github.io/wi26/group-project/checkpoint-2" style="color: red;">P2 Group Project Checkpoint 2 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
-        - label: PROJ
-          type: project
-          title: '<a href="https://cogs9.github.io/wi26/group-project/video" style="color: red;">P2 Group Project Video DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
-    
-
