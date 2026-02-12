@@ -259,7 +259,7 @@
         - label: LEC 10
           type: lecture
           title: Machine learning I
-          slides:
+          slides: https://drive.google.com/file/d/17x7kH9HNRFRJCfyKhb4aW2m4JYXA-s2l/view?usp=drive_link
 
     - date: "2026-02-13"
       in_class: true
