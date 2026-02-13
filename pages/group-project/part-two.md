@@ -10,6 +10,7 @@ permalink: /group-project/checkpoint-2
 
 - Checkpoint 2 Google Doc <a href="https://docs.google.com/document/d/1tJgQz-HHBCbSRiPx7i7PqZfRfmAUGTcwPyJjSpgjLz4/edit?usp=sharing" target="_blank" rel="noopener">open &#x2197;</a>
   - You cannot edit this document directly. Instead, make a copy in your own Google Drive and share edit access with all group members. Your group should do all of its work in that copied document. When you’re ready to submit, export the document as a PDF and upload one group submission to Gradescope. You may resubmit as many times as you like before the deadline.
+- Checkpoint 2 RUBRIC <a href="https://docs.google.com/document/d/1sh9IEJMtwdzKmIvVoenGF1w-NKzfhpSXyhb1dhmoTw0/edit?usp=sharing" target="_blank" rel="noopener">open &#x2197;</a>
 
 {: .warning }
 Please do NOT submit multiple files on Gradescope. Each group should submit one PDF total, with all group members’ names and PIDs included in the document.
