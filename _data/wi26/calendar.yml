@@ -288,7 +288,7 @@
         - label: LEC 11
           type: lecture
           title:  Machine learning II
-          slides:
+          slides: https://drive.google.com/file/d/1nfdARAVUfKYcREFmscA0VEAicYziXHba/view?usp=drive_link
     
     - date: "2026-02-19"
       in_class: true
