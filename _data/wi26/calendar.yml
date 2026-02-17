@@ -258,7 +258,7 @@
       events:
         - label: LEC 10
           type: lecture
-          title: Machine learning I
+          title: Machine learning I: Supervised Learning
           slides: https://drive.google.com/file/d/17x7kH9HNRFRJCfyKhb4aW2m4JYXA-s2l/view?usp=drive_link
 
     - date: "2026-02-13"
@@ -287,8 +287,8 @@
       events:
         - label: LEC 11
           type: lecture
-          title:  Machine learning II
-          slides: https://drive.google.com/file/d/1nfdARAVUfKYcREFmscA0VEAicYziXHba/view?usp=drive_link
+          title:  Machine learning II: Supervised Learning Model Evaluation 
+          slides: https://drive.google.com/file/d/1HARvuWEgY3DzJLONq6E4fPWGo_hvD0QA/view?usp=drive_link
     
     - date: "2026-02-19"
       in_class: true
@@ -334,7 +334,7 @@
       events:
         - label: LEC 12
           type: lecture
-          title: Algorithms and computability
+          title: Machine learning III: Unsupervised Learning & Reinforcement Learning
           slides: 
 
     - date: "2026-02-26"
