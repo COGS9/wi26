@@ -295,7 +295,7 @@
       events:
         - label: GUEST
           type: guest
-          title: "9-10am ZOOM Guest lecture: Sundas Khalid — Principal Analytics Lead, Google Search; YouTuber & Educator (see details on Canvas)" 
+          title: "9am ZOOM Guest lecture: Sundas Khalid — Principal Analytics Lead, Google Search; YouTuber & Educator (see details on Canvas)" 
 
     - date: "2026-02-20"
       in_class: true
@@ -305,7 +305,7 @@
           title: PLA office hours
 
 - week: 8
-  title: "Week 8 - Algorithms & Reproducibility<br>
+  title: "Week 8 - Machine Learning & Reproducibility<br>
     <small>
       📘 Read <a href=\"https://cogs9.github.io/wi26/readings/reading-5\" target=\"_blank\" rel=\"noopener\">R5: Machine Learning Readings</a>
     </small>"
@@ -342,7 +342,7 @@
       events:
         - label: LEC 13
           type: lecture
-          title: Reproducibility & version control
+          title: Reproducibility & Version Control
           slides: 
 
     - date: "2026-02-27"
