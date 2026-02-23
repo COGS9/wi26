@@ -318,7 +318,7 @@
           title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
         - label: DISC
           type: disc
-          title: ALL sections - Exam 2 review #1
+          title: ALL Sections - Exam 2 Review 
           slides: https://docs.google.com/presentation/d/1RLsPVelmSRIsDTo3Qn_TNeq46FixKOvLTLRpjxOpDOw/edit?usp=sharing
     
     - date: "2026-02-24"
@@ -352,7 +352,7 @@
       events:
         - label: DISC
           type: disc
-          title: ALL Sections - Exam 2 Review #2
+          title: ALL Sections - Exam 2 More Review 
           slides: 
         - label: QUIZ
           type: quiz
