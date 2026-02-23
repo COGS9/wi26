@@ -318,17 +318,9 @@
           title: '<a href="https://cogs9.github.io/wi26/assignment/assignment-2" style="color: red;">A2 p-values DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1206494" target="_blank" rel="noopener">submit here</a>'
         - label: DISC
           type: disc
-          title: 9am & 10am sections (Fuling)
-          slides: 
-        - label: DISC
-          type: disc
-          title: 11am & 1pm sections (Ian)
-          slides: 
-        - label: DISC
-          type: disc
-          title: 2pm & 4pm sections (Jiesen)
-          slides: 
-
+          title: ALL sections - Exam 2 review #1
+          slides: https://docs.google.com/presentation/d/1RLsPVelmSRIsDTo3Qn_TNeq46FixKOvLTLRpjxOpDOw/edit?usp=sharing
+    
     - date: "2026-02-24"
       in_class: true
       events:
@@ -360,7 +352,7 @@
       events:
         - label: DISC
           type: disc
-          title: ALL Sections - Exam 2 Review
+          title: ALL Sections - Exam 2 Review #2
           slides: 
         - label: QUIZ
           type: quiz
