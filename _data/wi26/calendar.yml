@@ -342,7 +342,7 @@
       events:
         - label: LEC 13
           type: lecture
-          title: Reproducibility & Version Control
+          title: Fair & Reproducible Algorithms
           slides: 
 
     - date: "2026-02-27"
