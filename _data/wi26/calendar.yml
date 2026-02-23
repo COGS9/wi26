@@ -372,7 +372,7 @@
         - label: EXAM
           type: exam
           title: EXAM 2 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
-
+          slides: https://drive.google.com/file/d/1TcIWG3w7h4Bd5SsI87a_fcpxk1wKbuiO/view?usp=drive_link
 
     - date: "2026-03-05"
       in_class: true
