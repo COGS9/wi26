@@ -353,7 +353,7 @@
         - label: DISC
           type: disc
           title: ALL Sections - Exam 2 More Review 
-          slides: 
+          slides: https://docs.google.com/presentation/d/1PsR1kishMzdt9Zmk70rN8cz848p3FQOAIf0vvfsC-FE/edit?usp=sharing
         - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/71213/quizzes/241405/" target="_blank" rel="noopener">submit here</a>'
@@ -371,8 +371,7 @@
       events:
         - label: GUEST
           type: guest
-          title: "Guest lecture: Emma Krause — Staff Machine Learning Engineer, PathAI"
-          slides:
+          title: "ZOOM Guest lecture: Emma Krause — Staff Machine Learning Engineer, PathAI (see Zoom details on Canvas)"
 
     - date: "2026-03-06"
       in_class: true
