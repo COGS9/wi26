@@ -334,8 +334,8 @@
       events:
         - label: LEC 13
           type: lecture
-          title: Fair & Reproducible Algorithms
-          slides: 
+          title: Algorithmic Bias & Fairness
+          slides: https://drive.google.com/file/d/1CqKOdM-k7jMtkRlv7mkVCPlq2b4nqU3m/view?usp=drive_link
 
     - date: "2026-02-27"
       in_class: true
