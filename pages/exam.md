@@ -12,7 +12,7 @@ There will be **two, non-cumulative exams** in this class (please mark them in y
 * **Tuesday, Jan 27**
   * [Webclicker questions](https://drive.google.com/file/d/1SbXMjekmnXvSxeEnfIk0nwslhuB0laKI/view])
 * **Tuesday, Mar 6**
-  * [Study sheets + webclicker questions](https://drive.google.com/file/d/1TcIWG3w7h4Bd5SsI87a_fcpxk1wKbuiO/view?usp=drive_link)
+  * [Study sheets + webclicker questions](https://drive.google.com/file/d/1yrQBdlPjZ1N2U2Am9UPvF-ZypGp9RdBN/view?usp=drive_link)
 
 Each exam will be roughly 50-60 multiple-choice questions, and will cover material from both the lecture and readings. The TAs & PLAs will hold exam review sessions before each exam.
 
