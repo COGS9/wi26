@@ -392,16 +392,8 @@
       
         - label: DISC
           type: disc
-          title: 9am & 10am sections (Fuling)
-          slides: 
-        - label: DISC
-          type: disc
-          title: 11am & 1pm sections (Ian)
-          slides: 
-        - label: DISC
-          type: disc
-          title: 2pm & 4pm sections (Jiesen)
-          slides: 
+          title: Post-exam review (all sections)
+          slides: https://docs.google.com/presentation/d/12fcwUgMfADwzX67qtMFWccdkshhdE-X3DMxIkA2JJM8/edit?usp=sharing
 
     - date: "2026-03-10"
       in_class: true
@@ -409,7 +401,7 @@
         - label: LEC 14
           type: lecture
           title: Data science applications
-          slides:
+          slides: https://drive.google.com/file/d/1QPVdDg0i1WlvTo_cXfGwM3v_ETZjtUNz/view?usp=drive_link
 
     - date: "2026-03-12"
       in_class: true
