@@ -25,7 +25,7 @@ title: COGS 9
 email: lai@ucsd.edu
 description: Understanding data and how it shapes the world around us
 title: COGS 9
-tagline: Introduction to Data Science 📊 | Winter 2026
+tagline: Introduction to Data Science 📊 | Spring 2026
 
 url: https://cogs9.github.io
 baseurl: 
@@ -78,7 +78,7 @@ aux_links:
   💯 Gradescope:
   - 'https://www.gradescope.com/courses/1206494'
   🎙️ Podcast:
-  -  'https://podcast.ucsd.edu/watch/wi26/cogs9_a00'
+  -  'https://podcast.ucsd.edu/watch/sp26/cogs9_a00'
   💬 Feedback:
   - 'https://docs.google.com/forms/d/e/1FAIpQLSeG3HjRZSgFPv9zDxVaMCdYW-iSwYmQHE7t2JbhLA-0upTsQA/viewform?usp=sharing&ouid=113612539407126073694'
 
@@ -86,7 +86,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Change this to choose where to pick data from
-data_folder: wi26
+data_folder: sp26
 
 # Config JTD UI elements here
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
