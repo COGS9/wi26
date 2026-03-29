@@ -6,13 +6,6 @@
     </small>"
 
   days:
-    - date: "2026-01-05"
-      in_class: true
-      events:
-        - label: DISC
-          type: disc
-          title: '<span style="color: red;">NO Discussion Section</span>'
-
     - date: "2026-03-31"
       in_class: true
       events:
