@@ -171,7 +171,6 @@
           type: project
           title: '<a href="https://cogs9.github.io/sp26/group-project/checkpoint-1" style="color: red;">P1 Group Project Checkpoint 1 DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
           
-
     - date: "2026-04-29"
       in_class: true
       events:
@@ -221,40 +220,47 @@
     - date: "2026-05-07"
       in_class: true
       events:
-        - label: LEC 10
+        - label: GUEST
           type: lecture
-          title: 
-          slides:
-
+          title: "Guest lecture: Eshed Margalit — Noetik" 
 
 - week: 7
   title: "Week 7 - Machine Learning"
   days:
-    - date: "2026-02-16"
+    - date: "2026-05-12"
       in_class: false
       events:
-        - label: DISC
-          type: disc
-          title: '<span style="color: red;">HOLIDAY—NO Discussion Section (everyone gets free +1pt)</span>'
+        - label: LEC 10
+          type: lecture
+          title: Machine learning I - Supervised Learning 
           slides: 
         - label: HW
           type: hw
           title: '<a href="https://cogs9.github.io/sp26/assignment/assignment-1" style="color: red;">A1 Data Visualization DUE @ 11:59pm</a> <a href="https://www.gradescope.com/courses/1288254" target="_blank" rel="noopener">submit here</a>'
 
-    - date: "2026-02-17"
+    - date: "2026-05-13"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: 9am & 11am sections (Fuling)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 10am & 12pm sections (Tony)
+          slides: 
+        - label: DISC
+          type: disc
+          title: 1pm & 2pm sections (Jiesen)
+          slides: 
+      
+    - date: "2026-05-14"
       in_class: true
       events:
         - label: LEC 11
           type: lecture
-          title:  Machine learning I - Supervised Learning Machine learning II - Supervised Learning Model Evaluation 
+          title: Machine learning II - Supervised Learning Model Evaluation 
           slides: 
-    
-    - date: "2026-02-19"
-      in_class: true
-      events:
-        - label: GUEST
-          type: lecture
-          title: "Guest lecture: Eshed Margalit — Noetik" 
 
 - week: 8
   title: "Week 8 - Machine Learning & Reproducibility<br>
