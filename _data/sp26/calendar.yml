@@ -22,7 +22,7 @@
       events:
         - label: DISC
           type: disc
-          title: NO SECTION IN WEEK 1!
+          title: '<span style="color: red;">NO SECTION IN WEEK 1! </span>'
           
     - date: "2026-04-02"
       in_class: true
