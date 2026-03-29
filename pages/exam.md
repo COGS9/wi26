@@ -9,10 +9,10 @@ permalink: /exam/
 <h1>Exams</h1>
 
 There will be **two, non-cumulative exams** in this class (please mark them in your calendar!): 
-* **Tuesday, Jan 27**
-  * [Webclicker questions](https://drive.google.com/file/d/1SbXMjekmnXvSxeEnfIk0nwslhuB0laKI/view])
-* **Tuesday, Mar 6**
-  * [Study sheets + webclicker questions](https://drive.google.com/file/d/1yrQBdlPjZ1N2U2Am9UPvF-ZypGp9RdBN/view?usp=drive_link)
+* **Thursday, Apr 23**
+  * Study sheets + webclicker questions to come!
+* **Thursday, May 28**
+  * Study sheets + webclicker questions to come!
 
 Each exam will be roughly 50-60 multiple-choice questions, and will cover material from both the lecture and readings. The TAs & PLAs will hold exam review sessions before each exam.
 
