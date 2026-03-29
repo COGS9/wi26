@@ -304,7 +304,7 @@
         - label: GUEST
           type: lecture
           title: "Guest lecture: Emily Jones — Senior Data Scientist, Epic Games"
-       - label: QUIZ
+        - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R5 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248868" target="_blank" rel="noopener">submit here</a>'
 
