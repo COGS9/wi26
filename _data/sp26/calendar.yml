@@ -48,15 +48,15 @@
           slides: 
         - label: MISC
           type: misc
-          title: '<span style="color: red;">Syllabus Quiz DUE @ 11:59pm</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">Syllabus Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248866" target="_blank" rel="noopener">submit here</a>'
         - label: MISC
           type: misc
-          title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
-         - label: QUIZ
+          title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href="https://forms.gle/3bNdJvnQYjDqtwCv5" target="_blank" rel="noopener">submit here</a>'
+        - label: QUIZ
           type: quiz
-          title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href=" " target="_blank" rel="noopener">submit here</a>'
+          title: '<span style="color: red;">R1 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248867" target="_blank" rel="noopener">submit here</a>'
 
-     - date: "2026-04-08"
+    - date: "2026-04-08"
       in_class: true
       events:
         - label: DISC
