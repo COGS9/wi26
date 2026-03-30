@@ -119,9 +119,9 @@
     - date: "2026-04-16"
       in_class: true
       events:
-        - label: LEC 6
+        - label: GUEST
           type: lecture
-          title: Data wrangling
+          title: "[ZOOM] Guest lecture: Steven Zhang - Co-Founder, Interconnection.fyi & ClimateTechList (see details on Canvas)"
           slides: 
 
 - week: 4
@@ -130,9 +130,9 @@
     - date: "2026-04-21"
       in_class: true
       events:
-        - label: GUEST
+        - label: LEC 6
           type: lecture
-          title: "[ZOOM] Guest lecture: Steven Zhang - Co-Founder, Interconnection.fyi & ClimateTechList (see details on Canvas)"
+          title: Data wrangling
           slides: 
         - label: QUIZ
           type: quiz
