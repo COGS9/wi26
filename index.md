@@ -34,8 +34,8 @@ If you are joining the course late and would still like to earn full credit for 
 
 ## Office Hours
 * **Prof. Lai**:
-  * Tues, 1-2:15pm (<a href="https://calendar.app.google/1nebbtvdYdn6WFpw5" target="_blank" rel="noopener">book &#x2197;</a> only) @ CSB 244/Zoom
-  * Thurs, 1-2pm (walk-in!) @ CSB 244
+  * Tues, 1-2:30pm (1-1, <a href="https://calendar.app.google/1nebbtvdYdn6WFpw5" target="_blank" rel="noopener">book &#x2197;</a> only) @ CSB 244 or Zoom
+  * Tues, 2:45-4pm (open office hours, walk-in!) @ <a href="https://maps.app.goo.gl/cb1DK2ASsVHa4G3j6" target="_blank" rel="noopener">CSB Courtyard &#x2197;</a> 
 * **TAs**: During discussion section
 * **PLAs**:
   * Mon, TBD
