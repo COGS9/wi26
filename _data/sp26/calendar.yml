@@ -45,7 +45,7 @@
         - label: LEC 3
           type: lecture
           title: Ethics and privacy
-          slides: 
+          slides: https://drive.google.com/file/d/13RBffrP6I6A-B819AAn_A_Rr2mgwweXk/view?usp=drive_link
         - label: MISC
           type: misc
           title: '<span style="color: red;">Pre-Course Survey DUE @ 11:59pm</span> <a href="https://forms.gle/3bNdJvnQYjDqtwCv5" target="_blank" rel="noopener">submit here</a>'
