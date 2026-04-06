@@ -39,7 +39,7 @@ If you are joining the course late and would still like to earn full credit for 
 * **TAs**: During discussion section
 * **PLAs**:
   * Mon, 1-2pm @ CSB 114 (in-person only!) with Alex Nieto
-  * Mon, 4-5pm @ <a href="https://ucsd.zoom.us/j/97813903283" target="_blank" rel="noopener">Zoom &#x2197;</a> | Gabriel Lopes
+  * Mon, 4-5pm @ <a href="https://ucsd.zoom.us/j/97813903283" target="_blank" rel="noopener">Zoom &#x2197;</a> with Gabriel Lopes
   * Mon, 7-8p @ <a href="https://us04web.zoom.us/j/72088395540?pwd=TrQUUxSnrNZHbf8wORdA2KOfVJ85VS.1" target="_blank" rel="noopener">Zoom &#x2197;</a> with Yash Date
   * Tues, 2-3pm, @ HDSI 155 + <a href="https://ucsd.zoom.us/j/92992107788" target="_blank" rel="noopener">Zoom &#x2197;</a> with Amelia Oo + Tanvi Vidyala
   * Tues, 5-6pm, @ HDSI 155 + <a href="https://us04web.zoom.us/j/72108345340?pwd=po1iHOMDc4XCOPZVFIdFLb947Akd3K.1" target="_blank" rel="noopener">Zoom &#x2197;</a> with Michael Yang
