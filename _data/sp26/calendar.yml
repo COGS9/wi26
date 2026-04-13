@@ -92,7 +92,7 @@
         - label: LEC 5
           type: lecture
           title: Obtaining data
-          slides: 
+          slides: https://drive.google.com/file/d/1ehcJ2m2VU07C402lph2YECH6sR1gZleh/view?usp=drive_link
         - label: QUIZ
           type: quiz
           title: '<span style="color: red;">R2 Quiz DUE @ 11:59pm</span> <a href="https://canvas.ucsd.edu/courses/75472/quizzes/248869" target="_blank" rel="noopener">submit here</a>'
