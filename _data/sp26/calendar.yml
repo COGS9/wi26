@@ -144,7 +144,7 @@
         - label: DISC
           type: disc
           title: ALL Sections — Exam 1 Review (Practice questions linked below)
-          slides: 
+          slides: https://docs.google.com/presentation/d/1cTPTNVa2opKePvPEYsjDh8W9ZFAIyH36IeyOuNxHi2o/edit?usp=sharing
     
     - date: "2026-04-23"
       in_class: true
@@ -152,7 +152,7 @@
         - label: EXAM
           type: exam
           title: EXAM 1 (In-class, 50-60 MC questions, 80 mins; Please contact Prof. Lai if you will require accommodated testing. If you miss the exam for any other reason, please contact your section TA/PLA ASAP!)
-          slides: 
+          slides: https://drive.google.com/file/d/1C9POMvqcHk9kA9V49r5hfhEyLDy9qKgj/view?usp=drive_link
           
 - week: 5
   title: "Week 5 - Data Visualization & EDA<br>
@@ -165,7 +165,7 @@
       events:
         - label: LEC 7
           type: lecture
-          title: Data visualization (given by aspiring professor & PLA, Alex Nieto!) 
+          title: Data visualization
           slides: 
         - label: PROJ
           type: project
